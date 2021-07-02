@@ -50,6 +50,8 @@ thumbnails:
 #
 exclude:
     - newPost.ps1
+    - tmp/
+    - site_template/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
