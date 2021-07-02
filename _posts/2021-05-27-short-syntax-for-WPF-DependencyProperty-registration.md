@@ -15,4 +15,5 @@ public static readonly DependencyProperty BankClientProperty = RegisterProperty(
 
 Found at the https://github.com/dotnet/wpf/issues/2352
 
+
 `DependencyPropertyRegistrar` source code is stored at the https://gist.github.com/zlatanov/8ed191d517d2a84529f66b73347cd7ca
