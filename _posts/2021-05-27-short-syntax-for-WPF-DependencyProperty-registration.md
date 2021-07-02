@@ -1,7 +1,7 @@
 ---
 layout: post
 title: short syntax for WPF DependencyProperty registration
-date: 2021-05-27 00:00 +03:00 
+date: 2021-05-27 00:00:00 +03:00 
 category: dev
 ---
 
