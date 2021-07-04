@@ -2,7 +2,9 @@ param([string]$title, [string]$tags, [string]$category, [string]$dateO)
 $date = Get-Date
 
 if ($dateO -ne "") {
-	[System.DateTime]::TryParse($dateO, [ref]$date)
+	if ([System.DateTime]::TryParse($dateO, [ref]$date) -eq $true) {
+	$date = $date.AddMinutes((Get-Date).TimeOfDay.TotalMinutes);
+	}
 }
 
 $now = $date.ToString("yyyy-MM-dd HH:mm K");
@@ -35,9 +37,11 @@ $content  += "date: $now"
 
 
 if ($tags -ne "") {
+	Write-host "tags $tags";
 	$content += "tags: [$tags]"
 }
 if ($category -ne "") {
+	Write-host "category $category";
 	$content += "category: $category"
 }
 $content  += "---"
