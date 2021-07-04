@@ -31,7 +31,26 @@ github_username:  oleksabor
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-archives
 
+# https://markusbenning.de/blog/2018/07/22/building-a-tag-cloud-for-jekyll.html 
+jekyll-archives:
+  enabled:
+    - year
+    - month
+    - tags
+#    - categories
+  layout: 'page'
+  layouts:
+    year: year
+    month: month
+    tag: tag_and_category
+  permalinks:
+    year: '/:year/'
+    month: '/:year/:month/'
+    tag: '/tag/:name/'
+    category: '/category/:name/'
+    
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
