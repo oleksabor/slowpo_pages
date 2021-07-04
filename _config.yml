@@ -31,14 +31,6 @@ github_username:  oleksabor
 theme: minima
 plugins:
   - jekyll-feed
-  
-thumbnails:
-  preview:
-    width: 360
-    height: 220
-  sidebar:
-    width: 80
-    height: 80
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -50,15 +42,13 @@ thumbnails:
 #
 exclude:
     - newPost.ps1
-    - tmp/
-    - site_template/
-    - .sass-cache/
-    - .jekyll-cache/
+#   - .sass-cache/
+#   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile
 #   - Gemfile.lock
 #   - node_modules/
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
