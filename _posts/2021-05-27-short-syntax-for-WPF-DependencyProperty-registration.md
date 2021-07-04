@@ -3,6 +3,7 @@ layout: post
 title: short syntax for WPF DependencyProperty registration
 date: 2021-05-27 00:00 
 category: dev
+tags: csharp
 ---
 
 Would like to share short syntax for depencecy properties registration found on web
