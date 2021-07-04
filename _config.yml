@@ -44,6 +44,10 @@ exclude:
     - newPost.ps1
     - tmp/
     - site_template/
+    - vendor/bundle
+    - vendor/cache
+    - .sass-cache/
+    - .jekyll-cache/
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
