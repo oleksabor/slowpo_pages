@@ -15,4 +15,6 @@ tags: moto
 
 Плата виходить 16.5 на 67.3 (буде трохи менше як переведу всі резистори на smd
 
-[![motoVindicator](/assets/images/2021/46549.png)](/assets/images/2021/46549.png)
+[![motoVindicator][f4]][f4]
+
+  [f4]: /assets/images/2021/46549.png

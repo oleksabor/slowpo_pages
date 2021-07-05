@@ -18,7 +18,7 @@ group :jekyll_plugins do
   #gem "github-pages", "~> 215"
   gem "jekyll-feed", "~> 0.12"
   gem 'jekyll-archives'
-  gem 'jekyll_picture_tag', '~> 2.0'
+  gem 'jekyll-responsive-image'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
