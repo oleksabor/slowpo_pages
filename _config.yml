@@ -21,7 +21,7 @@
 title: oleksii borodai
 email: oleksa.borodie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  programming and life thoughts, personal notes.
+  personal notes.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -32,6 +32,14 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-archives
+
+thumbnails:
+  preview:
+    width: 360
+    height: 220
+  sidebar:
+    width: 80
+    height: 80
 
 # https://markusbenning.de/blog/2018/07/22/building-a-tag-cloud-for-jekyll.html 
 jekyll-archives:
