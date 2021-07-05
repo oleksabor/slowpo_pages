@@ -18,5 +18,5 @@ presets:
         compression: av1
         speed: 8
     data_sizes: false
-    dimension_attributes: true
+    dimension_attributes: false
     keep: attention
