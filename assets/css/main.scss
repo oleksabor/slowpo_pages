@@ -1,0 +1,32 @@
+---
+---
+$right-sidebar-width-narrow: 20px !default;
+$right-sidebar-width: 30px !default;
+$right-sidebar-width-wide: 40px !default;
+
+
+@import "minimal-mistakes.scss";
+
+.tagcloud {
+  .tagcloud-tag {
+    display: inline;
+    white-space: nowrap;
+    padding: 0.6em;
+  }
+  .tagcloud-tag-s a {
+    // default font size
+//    color: #00CED1;
+  }
+  .tagcloud-tag-m a {
+    // medium font size
+//    color: #0000FF;
+  }
+  .tagcloud-tag-l a {
+    // large font size
+//    color: #4B0082;
+  }
+  .tagcloud-tag-xl a {
+    // xlarge font size
+//    color: #FF0000;
+  }
+}

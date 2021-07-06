@@ -1,0 +1,11 @@
+main:
+  - title: "Categories"
+    url: /categories/
+  - title: "Tags"
+    url: /tags/
+  - title: "Kyiv, Ukraine"
+    url: https://www.google.com/maps/place/Kiev/@50.4020355,30.5326905,10z
+    
+cats:
+  - title: test
+    url: ttest

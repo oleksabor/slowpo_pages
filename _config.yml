@@ -27,10 +27,29 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  oleksabor
 
-permalink: /:categories/:year/:month/:title.html
+permalink: /:categories/:year/:month-:title.html
 
 # Build settings
-theme: minima
+# https://mmistakes.github.io/minimal-mistakes
+theme: minimal-mistakes-jekyll
+#breadcrumbs: true
+category_archive:
+  type: jekyll-archives
+  path: /categories/
+tag_archive:
+  type: jekyll-archives
+  path: /tags/
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+  layouts:
+    category: archive-taxonomy
+    tag: archive-taxonomy
+  permalinks:
+    category: /categories/:name/
+    tag: /tags/:name/
+
 plugins:
   - jekyll-feed
   - jekyll-archives
@@ -46,22 +65,6 @@ responsive_image:
 
 # tagging using archive https://markusbenning.de/blog/2018/07/22/building-a-tag-cloud-for-jekyll.html 
 # combined with the logarithmic distribution by https://gist.github.com/yeban/2290195 
-jekyll-archives:
-  enabled:
-    - year
-#    - month
-    - tags
-#    - categories
-  layout: 'page'
-  layouts:
-    year: year
-#    month: month
-    tag: tag_and_category
-  permalinks:
-    year: '/:year/'
-#    month: '/:year/:month/'
-    tag: '/tags/:name/'
-    category: '/category/:name/'
     
 # Exclude from processing.
 # The following items will not be processed, by default.
