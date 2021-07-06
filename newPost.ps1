@@ -26,7 +26,7 @@ function transliterate([string] $text){
 		}
 	}
 	$a = '';
-	return $text
+	return $text -Replace '[^\w\s]', ''
 }
 
 $content  = @()
