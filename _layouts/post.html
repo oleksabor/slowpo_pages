@@ -6,7 +6,7 @@ layout: default
   Tag{% if page.tags.size > 1 %}s{% endif %}:
   {% assign taglist = page.tags | sort %}
   {% for tagi in taglist %}
-	<a href="/tag/{{ tagi | downcase }}">{{ tagi }}</a>
+	<a href="/tags/{{ tagi | downcase }}">{{ tagi }}</a>
   {% endfor %}
 {% endif %}
 <div class="PageNavigation">
