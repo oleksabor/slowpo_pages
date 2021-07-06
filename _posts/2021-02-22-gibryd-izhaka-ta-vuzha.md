@@ -15,7 +15,8 @@ _9V 12V 24V to 5V DC-DC Step Down Charger Power Module Dual USB Output Buck Volt
 Їхало 21 день (приблизно)
 Все добре, але перевірте в аліекспресі номер телефону і адресу доставки: в мене чомусь номер телефону був перекручений в профайлі.
 
-{% responsive_image path: assets/images/2021/41031.jpg alt: "car usb charger" %} {% responsive_image path: assets/images/2021/41459.jpg alt: "car usb charger" %}
+{% responsive_image path: assets/images/2021/41031.jpg alt: "car usb charger" %}
+{% responsive_image path: assets/images/2021/41459.jpg alt: "car usb charger" %}
 
 Далі все відносно просто: розламав старий зарядний пристрій (заради корпусу).
 Нова плата має розміри, що ідеально підійшли, тільки вирізав в платі два пази
