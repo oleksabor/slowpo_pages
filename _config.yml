@@ -46,17 +46,17 @@ responsive_image:
 jekyll-archives:
   enabled:
     - year
-    - month
+#    - month
     - tags
 #    - categories
   layout: 'page'
   layouts:
     year: year
-    month: month
+#    month: month
     tag: tag_and_category
   permalinks:
     year: '/:year/'
-    month: '/:year/:month/'
+#    month: '/:year/:month/'
     tag: '/tag/:name/'
     category: '/category/:name/'
     
