@@ -5,6 +5,6 @@
 layout: home
 author_profile: true
 
-sidebar:
-  nav: "cats"
+#sidebar:
+#  nav: "cats"
 ---
