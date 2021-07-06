@@ -44,7 +44,8 @@ responsive_image:
     - width: 480
     - width: 800
 
-# https://markusbenning.de/blog/2018/07/22/building-a-tag-cloud-for-jekyll.html 
+# tagging using archive https://markusbenning.de/blog/2018/07/22/building-a-tag-cloud-for-jekyll.html 
+# combined with the logarithmic distribution by https://gist.github.com/yeban/2290195 
 jekyll-archives:
   enabled:
     - year

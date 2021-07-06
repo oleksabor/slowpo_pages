@@ -6,6 +6,9 @@ module Jekyll
     end
 
     def render(context)
+      @size_min, @size_max, @precision, @unit = 100, 370, 0, '%'
+      @threshold                              = 1
+
       base_url = context['site.baseurl']
       tags = context['tags']
       return unless tags.class == Array
@@ -17,7 +20,7 @@ module Jekyll
       cloud = tags.map do |t|
         tag_size = site_tags[t].length
         "<div class=\"tagcloud-tag #{size_tag(min,max,tag_size)}\">"\
-          "<a href=\"#{base_url}/tag/#{t.downcase}\">"\
+          "<a href=\"#{base_url}/tag/#{t.downcase}\" style=\"#{size_log_tag(min,max,tag_size)}\">"\
           "#{t}"\
           "</a>"\
           "</div>"
@@ -26,6 +29,14 @@ module Jekyll
     end
 
     private
+	
+	def size_log_tag(min, max, count)
+	  # logarithmic distribution
+	  weight = (Math.log(count) - Math.log(min))/(Math.log(max) - Math.log(min))
+      size = @size_min + ((@size_max - @size_min) * weight).to_f
+      size = sprintf("%.#{@precision}f", size)
+	  "font-size: #{size}#{@unit}"
+	end
 
     def size_tag(min, max, count)
       diff = (max - min)
@@ -43,3 +54,25 @@ module Jekyll
 end
 
 Liquid::Template.register_tag('render_tagcloud', Jekyll::RenderTagCloud)
+
+# sample css:
+# .tagcloud {
+  # .tagcloud-tag {
+    # display: inline;
+    # white-space: nowrap;
+    # padding: 0.6em;
+  # }
+  # .tagcloud-tag-s a {
+    # // default font size
+    # color: #00CED1;
+  # }
+  # .tagcloud-tag-m a {
+    # color: #0000FF;
+  # }
+  # .tagcloud-tag-l a {
+    # color: #4B0082;
+  # }
+  # .tagcloud-tag-xl a {
+    # color: #FF0000;
+  # }
+# }
