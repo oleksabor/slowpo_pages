@@ -66,6 +66,9 @@ responsive_image:
 # tagging using archive https://markusbenning.de/blog/2018/07/22/building-a-tag-cloud-for-jekyll.html 
 # combined with the logarithmic distribution by https://gist.github.com/yeban/2290195 
     
+include:
+    - .nojekyll
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
