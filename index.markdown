@@ -4,7 +4,11 @@
 
 layout: home
 author_profile: true
+pagination:
+  enabled: true
 
 #sidebar:
 #  nav: "cats"
 ---
+
+

@@ -39,6 +39,18 @@ category_archive:
 tag_archive:
   type: jekyll-archives
   path: /tags/
+  
+paginate_path: '/page/:num/'
+
+pagination:
+  enabled: true
+  per_page: 16 
+  permalink: '/page/:num/'
+  title: 'page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+
 jekyll-archives:
   enabled:
     - categories
@@ -54,7 +66,10 @@ plugins:
   - jekyll-feed
   - jekyll-archives
   - jekyll-responsive-image 
-  
+  - jekyll-paginate-v2  
+whitelist:
+  - jekyll-paginate-v2  
+
 #https://github.com/wildlyinaccurate/jekyll-responsive-image
 responsive_image:
   template: _includes/picture.html
