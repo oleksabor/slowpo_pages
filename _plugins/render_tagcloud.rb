@@ -20,7 +20,7 @@ module Jekyll
       cloud = tags.map do |t|
         tag_size = site_tags[t].length
         "<div class=\"tagcloud-tag #{size_tag(min,max,tag_size)}\">"\
-          "<a href=\"#{base_url}/tags/#{t.downcase}\" style=\"#{size_log_tag(min,max,tag_size)}\">"\
+          "<a href=\"#{base_url}/tags/#{t.gsub('.', '').gsub(' ','-').downcase}\" style=\"#{size_log_tag(min,max,tag_size)}\">"\
           "#{t}"\
           "</a>"\
           "</div>"
