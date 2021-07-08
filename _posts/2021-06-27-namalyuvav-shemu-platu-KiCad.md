@@ -2,7 +2,7 @@
 layout: post
 title: намалював схему і плату в KiCad
 date: 2021-06-27 00:00:00 +03:00 
-category: life
+category: dev
 tags: moto
 ---
 

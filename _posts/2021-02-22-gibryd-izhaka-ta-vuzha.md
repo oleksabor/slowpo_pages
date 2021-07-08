@@ -3,7 +3,7 @@ layout: post
 title: гібрид їжака та вужа
 date: 2021-02-22 11:46 
 tags: [notStupidIfWorks]
-category: life
+category: dev
 ---
 Питання зарядки гаджетів в авто стає руба
 
