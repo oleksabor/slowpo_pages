@@ -31,6 +31,8 @@ function transliterate([string] $text){
 	return $text -Replace '[^\w\s]', ''
 }
 
+$title = $title -replace '\:', ''; # no colon allowed in title caption
+
 $content  = @()
 $content  += "---"
 $content  += "layout: post"
