@@ -6,7 +6,7 @@ module Jekyll
     end
 
     def render(context)
-      @size_min, @size_max, @precision, @unit = 100, 370, 0, '%'
+      @size_min, @size_max, @precision, @unit = 100, 800, 0, '%'
       @threshold                              = 1
 
       base_url = context['site.baseurl']
@@ -23,6 +23,7 @@ module Jekyll
           "<a href=\"#{base_url}/tags/#{t.gsub('.', '').gsub(' ','-').downcase}\" style=\"#{size_log_tag(min,max,tag_size)}\">"\
           "#{t}"\
           "</a>"\
+		  "<sup class=\"tagcount\">#{tag_size}</sup>"\
           "</div>"
       end.join("\n")
       "<div class=\"tagcloud\">#{cloud}</div>"
