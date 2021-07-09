@@ -28,7 +28,7 @@ function transliterate([string] $text){
 		}
 	}
 	$a = '';
-	return $text -Replace '[^\w\s]', ''
+	return $text -Replace '[^\w\s-]', ''
 }
 
 $title = $title -replace '\:', ''; # no colon allowed in title caption
