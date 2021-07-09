@@ -2,7 +2,7 @@
 layout: post
 title: Focsani - Braşov - Sighișoara - Salina Turda - Merry Cemetery
 date: 2018-11-16 09:36 
-tags: [travel, vacation]
+tags: [travel, vacation, car]
 category: life
 ---
 Подорож Румунією на осінні канікули 2018
