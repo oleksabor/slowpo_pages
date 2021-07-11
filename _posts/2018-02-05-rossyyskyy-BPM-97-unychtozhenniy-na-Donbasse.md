@@ -3,7 +3,7 @@ layout: post
 title: российский БПМ-97 уничтоженный на Донбассе
 date: 2018-02-05 21:17 
 tags: [war]
-category: politics
+category: politic
 ---
 
 
