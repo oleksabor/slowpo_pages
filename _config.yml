@@ -105,6 +105,7 @@ exclude:
     - vendor/cache
     - .sass-cache/
     - .jekyll-cache/
+    - build.sh
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
