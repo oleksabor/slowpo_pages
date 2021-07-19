@@ -4,6 +4,7 @@ title: DEZENT TZ real photo
 date: 2019-03-05 19:54 
 tags: [car]
 category: life
+description: Dezent TZ real life photos
 ---
 
 Ось реальні фото 

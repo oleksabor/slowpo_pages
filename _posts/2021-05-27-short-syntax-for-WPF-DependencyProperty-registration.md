@@ -4,6 +4,7 @@ title: short syntax for WPF DependencyProperty registration
 date: 2021-05-27 00:00 
 category: dev
 tags: csharp
+description: short syntax for the wpf dependency property registration RegisterProperty
 ---
 
 Would like to share short syntax for depencecy properties registration found on web

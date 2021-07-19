@@ -4,6 +4,7 @@ title: salewa denali 4 - небагато намету (але й кілогра
 date: 2020-08-31 15:00 
 tags: [trekking]
 category: life
+description: salewa Denali 4 намет відгук
 ---
 {% responsive_image path: assets/images/2021/33752.jpg alt: "salewa denali 4" %}
 
