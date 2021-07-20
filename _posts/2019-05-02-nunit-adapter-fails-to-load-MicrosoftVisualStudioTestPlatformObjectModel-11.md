@@ -4,6 +4,7 @@ title: nunit adapter fails to load Microsoft.VisualStudio.TestPlatform.ObjectMod
 date: 2019-05-02 23:52 
 tags: [.net]
 category: dev
+lang: en
 ---
 Today I've met with the error message below
 

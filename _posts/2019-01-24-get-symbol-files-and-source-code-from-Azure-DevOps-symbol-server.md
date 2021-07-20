@@ -5,6 +5,7 @@ date: 2019-01-24 20:05
 tags: [vs2017]
 category: dev
 description: Howto load nuget package symbol files and source code from Azure Devops symbol server 
+lang: en
 ---
 Recently I've got a task to build package and use it for debugging purposes
 

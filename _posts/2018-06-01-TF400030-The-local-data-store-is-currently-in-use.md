@@ -5,6 +5,7 @@ date: 2018-06-01 10:00
 tags: [tfs]
 category: dev
 description: fix error TF400030 The local data store is currently in use by another operation
+lang: en
 ---
 I've initiated get latest version operation for local workspace using command line utility `tf.exe`
 

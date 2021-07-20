@@ -4,6 +4,7 @@ title: FluentFTP with Azure FTPS
 date: 2018-10-09 09:47 
 tags: [azure,.net]
 category: dev
+lang: en
 ---
 I've just tried to connect to Azure FTPS site using
 [FluentFTP](https://github.com/robinrodricks/FluentFTP)

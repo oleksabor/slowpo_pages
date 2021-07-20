@@ -4,6 +4,7 @@ title: How to use postman to test IdentityServer (JWT token)
 date: 2017-07-11 13:17 
 tags: [jwt,IdentityServer]
 category: dev
+lang: en
 ---
 Today I've got a taks to test web `.net core` application that uses the `IdentityServer` as an authorization Web core extention.
 

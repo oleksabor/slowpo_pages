@@ -5,6 +5,7 @@ date: 2018-07-11 09:52
 tags: [.net]
 category: dev
 description: howto fix slow XElement constructor for large byte array content
+lang: en
 ---
 Recently I've tried to build a xml document using Linq to XML classes like `XDocument` and `XElement`
 One element has to contain byte array. I've checked

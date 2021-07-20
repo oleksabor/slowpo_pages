@@ -4,6 +4,7 @@ title: read assemblyversion from text file in the cmd script
 date: 2019-06-04 23:44 
 tags: [csharp, .net]
 category: dev
+lang: en
 ---
 recently I've got the task to read AssemblyVersion value from the AccemblyInfo.cs file in the cmd batch script
 
