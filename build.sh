@@ -2,4 +2,5 @@
 
 echo 'building prod version'
 
-JEKYLL_ENV=production jekyll build
+export JEKYLL_ENV=production 
+bundle exec jekyll build
