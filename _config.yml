@@ -33,7 +33,7 @@ analytics:
     tracking_id: "G-ZS1ZKQC483"
     anonymize_ip: false # default
 
-permalink: /:categories/:year/:month-:title.html
+permalink: /:categories/:year/:title.html
 
 # Build settings
 # https://mmistakes.github.io/minimal-mistakes
