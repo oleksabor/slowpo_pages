@@ -4,6 +4,7 @@ title: Focsani - Braşov - Sighișoara - Salina Turda - Merry Cemetery
 date: 2018-11-16 09:36 
 tags: [travel, vacation, car]
 category: life
+description: подорож на авто туристичними місцями румунія 2018 Noroioși, Peleș Castle, Bran Castle, Sighișoara Citadel, Трансфарагаш, Sibiu, Castelul Corvinilor, Salina Turda, Merry Cemetery
 ---
 Подорож Румунією на осінні канікули 2018
 
