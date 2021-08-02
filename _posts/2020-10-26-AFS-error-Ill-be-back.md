@@ -4,6 +4,7 @@ title: AFS error - Ill be back
 date: 2020-10-26 23:21 
 tags: [car]
 category: life
+related: true
 ---
 
 Дві коротких поїздки містом - і на третю поїздку вона повернулась :'(

@@ -4,6 +4,7 @@ title: AFS error - вирішення
 date: 2020-10-20 23:22 
 tags: [car]
 category: life
+related: true
 ---
 Довезли не таку поламану камеру
 

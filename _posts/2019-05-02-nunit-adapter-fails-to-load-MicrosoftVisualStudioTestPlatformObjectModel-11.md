@@ -5,6 +5,7 @@ date: 2019-05-02 23:52
 tags: [.net]
 category: dev
 lang: en
+related: true
 ---
 Today I've met with the error message below
 

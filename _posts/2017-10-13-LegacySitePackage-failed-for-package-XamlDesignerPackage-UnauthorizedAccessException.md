@@ -5,6 +5,7 @@ date: 2017-10-13 21:27
 tags: [vs2017]
 category: dev
 lang: en
+related: true
 ---
 
 If you have `VS 2015` or `VS 2017` installed and suddenly `XAML designer` stopped to load with error like below:

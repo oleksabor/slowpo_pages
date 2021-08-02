@@ -6,6 +6,7 @@ category: dev
 tags: csharp
 description: short syntax for the wpf dependency property registration RegisterProperty
 lang: en
+related: true
 ---
 
 Would like to share short syntax for depencecy properties registration found on web

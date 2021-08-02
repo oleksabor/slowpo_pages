@@ -5,6 +5,7 @@ date: 2017-06-21 13:23
 tags: [xml serialization]
 category: dev
 lang: en
+related: true
 ---
 
 Derived from `List` class properties are not serialized. 
