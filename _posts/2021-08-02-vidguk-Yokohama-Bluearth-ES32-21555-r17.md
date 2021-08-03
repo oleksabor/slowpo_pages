@@ -5,6 +5,7 @@ date: 2021-08-02 17:25 +03:00
 tags: [car]
 category: life
 description: перші враження відгук Yokohama Bluearth ES32 215/55 r17 літо
+comments: true
 ---
 Перейшов на  Yokohama Bluearth ES32 з Conti premium contact 5
 

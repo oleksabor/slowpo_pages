@@ -27,6 +27,14 @@ url: "https://slowpo.kyiv.ua" # the base hostname & protocol for your site, e.g.
 #twitter_username: jekyllrb
 github_username:  oleksabor
 
+
+repository: oleksabor/slowpo_pages
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "title"
+
 analytics:
   provider: "google-gtag"
   google:
