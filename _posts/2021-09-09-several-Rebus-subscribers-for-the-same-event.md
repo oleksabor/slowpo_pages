@@ -2,7 +2,7 @@
 layout: post
 title: several Rebus subscribers for the same event
 date: 2021-09-09 16:15 +03:00
-tags: [c#]
+tags: [csharp]
 category: dev
 description: configure Rebus to publish one event for several subscriber instances
 ---
