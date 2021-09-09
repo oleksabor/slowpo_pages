@@ -40,3 +40,6 @@ To have the same message consumed by two subscribers you have to configure:
 The centralized subscriptions SQL store has list of subscribers queue names (aka `addresses`) and message types (aka `topics`) to be published to.
 
 The Azure Service Bus has in-built topic routing feature to copy event for each subscriber and this feature is used by Rebus.
+
+See also: 
+* [Rebus sagas](https://seankearon.me/posts/2020/12/rebus-sagas-csharp/)
