@@ -1,6 +1,12 @@
 param([string]$title, [string]$tags, [string]$category, [string]$dateO, [switch]$debug)
 $date = Get-Date
 
+if ([System.String]::IsNullOrEmpty($title))
+{
+Write-Host "nothing to do, going home";
+return;
+}
+
 if ($dateO -ne "") {
 	if ([System.DateTime]::TryParse($dateO, [ref]$date) -eq $true) {
 	$date = $date.AddMinutes((Get-Date).TimeOfDay.TotalMinutes);
