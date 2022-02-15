@@ -4,6 +4,8 @@ $date = Get-Date
 if ([System.String]::IsNullOrEmpty($title))
 {
 Write-Host "nothing to do, going home";
+
+Write-Host "./newPost.ps1 `"some title`" `"tag1, tag2`" category [date] ";
 return;
 }
 
@@ -76,10 +78,17 @@ $fn += ".md";
 
 $fn
 
+$giteditor =  & git config --global core.editor; 
+$giteditor; 
+$giteditor = $giteditor.Replace("\\", "\"); 
+$giteditorexe = $giteditor.Substring(0, $giteditor.IndexOf(" ") + 1); 
+
+
 if (-not $Debug) {
 $content | Out-File -FilePath $fn
 
-& "notepad++" $fn #open in notepad to edit
+& $giteditorexe $giteditor.Substring($giteditor.IndexOf(" ") + 1).Split(" ") $fn
+
 }
 
 
