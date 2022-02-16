@@ -5,6 +5,7 @@ date: 2021-09-09 16:15 +03:00
 tags: [csharp]
 category: dev
 description: configure Rebus to publish one event for several subscriber instances
+lang: en
 ---
 
 Today I've learned that 

@@ -6,6 +6,7 @@ tags: [war]
 category: politic
 related: true
 description: Russian weapon used in Donbass
+lang: en
 ---
 Russian Orlan-10 drone [was landed by Ukrainian army on Donbass](https://m.facebook.com/pressjfo.news/posts/1240162646476349)
 
