@@ -10,6 +10,8 @@ lang: en
 
 I do not have regular access to the notebook any more because of war.
 
+{% responsive_image path: assets/images/2022/airAlert.png alt: "air alert notification" %}
+
 However I'd like to keep posting some notes and make them available online rather than waiting for vacation to get to the notebook and run generator.
 
 [Vercel](https://vercel.com) has free hosting plan for static personal web sites.
@@ -30,7 +32,12 @@ Vercel pipeline generates html sources for the whole web site by creating Jekyll
 
 Now i can use Vercel's environments feature.
 A staging environment is created by a push to any branch.
+
+{% responsive_image path: assets/images/2022/vercelStaging.png alt: "staging environment" %}
+
 The production environment is updated by the main branch modification.
+
+{% responsive_image path: assets/images/2022/vercelProduction.png alt: "production environment" %}
 
 ### Mobile phone prerequisites
 
