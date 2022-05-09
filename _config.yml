@@ -41,7 +41,7 @@ analytics:
     tracking_id: "G-ZS1ZKQC483"
     anonymize_ip: false # default
 
-permalink: /:categories/:year/:title.html
+permalink: /:year/:title.html
 
 # Build settings
 # https://mmistakes.github.io/minimal-mistakes
@@ -58,6 +58,7 @@ social:
   name: oleksii borodai
   
 paginate_path: '/page/:num/'
+
 
 pagination:
   enabled: true
@@ -79,6 +80,20 @@ jekyll-archives:
     category: /categories/:name/
     tag: /tags/:name/
 
+# removing tags and categories pages from the generated sitemap.xml
+defaults:
+  -
+    scope:
+      path:            "tags"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "categories"
+    values:
+      sitemap:         false
+
+
 plugins:
   - jekyll-feed
   - jekyll-archives
@@ -93,7 +108,8 @@ responsive_image:
   sizes:
     - width: 320
     - width: 640
- 
+
+       
 # tagging using archive https://markusbenning.de/blog/2018/07/22/building-a-tag-cloud-for-jekyll.html 
 # combined with the logarithmic distribution by https://gist.github.com/yeban/2290195 
     
