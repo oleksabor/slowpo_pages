@@ -123,6 +123,7 @@ responsive_image:
 # their entries' file path in the `include:` list.
 #
 exclude:
+    - template.md
     - newPost.ps1
     - tmp/
     - site_template/
