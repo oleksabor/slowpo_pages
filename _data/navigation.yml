@@ -5,5 +5,6 @@ main:
     url: /tags/
   - title: "Kyiv, Ukraine"
     url: https://www.google.com/maps/place/Kiev/@50.4020355,30.5326905,10z
-  - title: email
-    url: mailto:olek.saborodie@gmail.com
+  - title: About
+    url: /about
+
