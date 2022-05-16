@@ -10,7 +10,7 @@ Software developer from Kyiv, Ukraine
 * 1998-2004 worked in KINTO (securities dealer) as software developer and "responsible for everything" IT guy
 * 2004-2007 in ProCredit bank Ukraine as software developer.
 * 2007-2013 in representative office of Quipu Gmbh in Ukraine (as back-end developer)
-* 2014-2022 as a private entrepreneur
+* 2013-2022 as a private entrepreneur
 * 2022- I enlisted to the army
 
  
