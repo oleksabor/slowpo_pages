@@ -1,5 +1,5 @@
 <a href="/{{ path }}">
-    <picture>
+    <picture class="padding">
         {% for i in resized %}<source media="(min-width: {{ i.width }}px)" srcset="/{{ i.path }}" > {% endfor %}
         <img src="/{{ path }}" >
     </picture>
