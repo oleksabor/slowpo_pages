@@ -11,8 +11,7 @@ description: оплата автоматичного штрафу за пере�
 Цей прикрий факт сповістив мені телеграм-бот @ShtrafyPDRbot
 
 реквізити знайшов 
-[ось тут]
-(http://patrol.police.gov.ua/automatic_fixation/rekvizyty-oplaty-shtrafiv-zafiksovanyh-v-avtomatychnomu-rezhymi/)
+[ось тут](http://patrol.police.gov.ua/automatic_fixation/rekvizyty-oplaty-shtrafiv-zafiksovanyh-v-avtomatychnomu-rezhymi/)
 
 Увага! для оплати автоматичних штрафів - свій номер рахунку, рахунок звичайних штрафів - не підходить.
 
