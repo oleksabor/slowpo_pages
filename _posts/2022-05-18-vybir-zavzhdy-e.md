@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Вибір завжди є
-description: 
-tags: [зсу, war]
+date: 2022-05-18 17:00:00 +3:00
+tags: [зсу, war, тероборона]
 category: life
 lang: uk
 ---
