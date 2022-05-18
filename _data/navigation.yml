@@ -1,10 +1,8 @@
 main:
-  - title: "Categories"
+  - title: "categories"
     url: /categories/
-  - title: "Tags"
+  - title: "tags"
     url: /tags/
-  - title: "Kyiv, Ukraine"
-    url: https://www.google.com/maps/place/Kiev/@50.4020355,30.5326905,10z
-  - title: About
+  - title: about
     url: /about
 
