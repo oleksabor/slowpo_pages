@@ -27,6 +27,10 @@ Software developer from
 </a>
 {% endif %}
 
-Built with 
-[Jekyll](https://github.com/jekyll/jekyll)
-
+I have two projects almost-in-production besides my work.
+* <a href="https://github.com/oleksabor/atropos/releases"  class="btn" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span>Atropos</span></a> application
+  that calculates time user is logged in Windows. 
+  I've created it to control how many time my son spends playing computer games.
+* <a href="https://github.com/oleksabor/work-tracker"  class="btn" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span>Workout tracker </span></a> application for Android.
+  I was interested in the new mobile development Flutter platform and has created application to check is it so easy to use. 
+  Application is working however still in beta phase: requires additional testing on different devices.
