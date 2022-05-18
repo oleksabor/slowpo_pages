@@ -4,7 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Software developer from Kyiv, Ukraine
+Software developer from 
+[Kyiv, Ukraine](https://www.google.com/maps/place/Kiev/@50.4020355,30.5326905,10z)
 
 * 1999 I've graduated from Kyiv Natioanal university of economics with a master's degree in information systems of economics.
 * 1998-2004 worked in KINTO (securities dealer) as software developer and "responsible for everything" IT guy
