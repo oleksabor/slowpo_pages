@@ -1,7 +1,7 @@
 ---
 layout: post
 title: бо маю хвостик під сракою
-date: 2022-05-20 11:22 +3:00
+date: 2022-05-20 11:22:00 +3:00
 tags: [тероборона, humor]
 category: life
 lang: uk
