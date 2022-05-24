@@ -8,11 +8,12 @@ category: dev
 lang: en
 ---
 
-{% responsive_image path: assets/images/2022/installWindows.jpg alt: "install windows meme" %}
-
 Memes are made from the reality I know.
 We are geting to know each other better here and I was asked to install Windows because I'm a developer.
 
+{% responsive_image path: assets/images/2022/installWindows.jpg alt: "install windows meme" %}
+
+##### mouse pointer lag
 The computer is the HP 15-g003sw laptop (part number g2a33ea).
 I installed Windows however the mouse pointer was very unresponsive that was bad surprise for me.
 The 15-g003sw  laptop is not the most powerful model in the world however it should not be so slow.
@@ -30,10 +31,15 @@ The CPU load has about 90% load  also.
 
 The HP support web site has the display driver available for the 15-g003sw model.  The driver works well. 
 The only one problem was to download the correct  driver having mouse pointer reacting with 4 seconds lag.
- 
-You may find correct  AMD Radeon HD 8210  drivers version below
 
-{% responsive_image path: assets/images/2022/scr2_015646.png  alt: "HP display driver" %} 
-{% responsive_image path: assets/images/2022/scr3_015647.png g alt: "HP display driver" %}
+#### working display driver 
+You may find correct  AMD Radeon HD 8210  drivers version below.
 
-It should be like 15.201.1101 built at 06.08.2015 
+The display driver version should be like 15.201.1101 built at 06.08.2015. This is the version supplied by HP and it is working fine.
+
+#### lifehack
+Now I think that driver download can be done in more comfortable way.
+The idea is to install Windows skipping internet connection step (do not connect to a LAN or WIFI network).
+And to stop Windows Update before connecting to the onternet. 
+Then it would be possible to download correct display driver and do not have mouse lagging problem. 
+You may want to enable Wondows Update later.
