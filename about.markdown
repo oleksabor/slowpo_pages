@@ -7,6 +7,8 @@ permalink: /about/
 Software developer from 
 [Kyiv, Ukraine](https://www.google.com/maps/place/Kiev/@50.4020355,30.5326905,10z)
 
+### career
+
 * 1999 I've graduated from Kyiv Natioanal university of economics with a master's degree in information systems of economics.
 * 1998-2004 worked in KINTO (securities dealer) as software developer and "responsible for everything" IT guy
 * 2004-2007 in ProCredit bank Ukraine as software developer.
@@ -14,7 +16,8 @@ Software developer from
 * 2013-2022 as a private entrepreneur
 * 2022- I enlisted to the army
 
- 
+### social
+  
 {% assign author = site["oleksabor"] %}
 {% if author.email %}
 <a href="mailto:{{ author.email }}" class="btn" title="email">
@@ -26,6 +29,8 @@ Software developer from
 <i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i><span class="label">Stack Overflow</span>
 </a>
 {% endif %}
+
+### open source
 
 I have two projects almost-in-production besides my work.
 * <a href="https://github.com/oleksabor/atropos/releases"  class="btn" title="GitHub"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span>Atropos</span></a> application
