@@ -34,6 +34,6 @@ The only one problem was to download the correct  driver having mouse pointer re
 You may find correct  AMD Radeon HD 8210  drivers version below
 
 {% responsive_image path: assets/images/2022/scr2_015646.png  alt: "HP display driver" %} 
-{% responsive_image path: assets/images/2022/scr3_015647.pn g alt: "HP display driver" %}
+{% responsive_image path: assets/images/2022/scr3_015647.png g alt: "HP display driver" %}
 
 It should be like 15.201.1101 built at 06.08.2015 
