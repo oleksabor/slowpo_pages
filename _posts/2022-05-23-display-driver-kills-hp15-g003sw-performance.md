@@ -11,7 +11,7 @@ lang: en
 Memes are made from the reality I know.
 We are geting to know each other better here and I was asked to install Windows because I'm a developer.
 
-{% responsive_image path: assets/images/2022/installWindows.jpg alt: "install windows meme" %}
+{% responsive_image path: assets/images/2022/installWindows.jpg alt: "staging environment" %}
 
 ##### mouse pointer lag
 The computer is the HP 15-g003sw laptop (part number g2a33ea).
