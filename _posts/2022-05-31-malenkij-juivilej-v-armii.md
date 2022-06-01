@@ -75,6 +75,6 @@ _Можем павтаріть_ розстріли мирного населен
 Сподіваюсь на галактичну поліцію, що всіх врятує і вимкне ретранслятори.
 
 
-{% responsive_image path: assets/images/2022/warStatistic0601 alt: "" %}
+{% responsive_image path: assets/images/2022/warStatistic0601.jpg alt: "war statistics 2022" %}
 
 
