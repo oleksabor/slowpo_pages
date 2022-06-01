@@ -2,7 +2,7 @@
 layout: post
 title: Один з семи
 date: 2022-06-01 12:54:00 +3:00
-tags: [lifesucks, war]
+tags: [lifesucks, war, зсу]
 category: life
 lang: uk
 ---
