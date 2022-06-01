@@ -13,7 +13,13 @@ _Якщо людина вважає, що вона не підготовлена
 
 Тік-так.
 Перше заняття було сьогодні...
-Показали муляжі радянських мін і розказали байки про фуфайки протягом двох годин.
+
+<iframe width="560" height="315" 
+src="https://youtu.be/2aMkJ2CFseU" 
+title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe> 
+
+Показали муляжі радянських мін і розказали байки про фуфайки протягом двох годин. 
 
 _Бачите міну - обійдіть._
 _Бачите багато мін - викликайте саперів._
