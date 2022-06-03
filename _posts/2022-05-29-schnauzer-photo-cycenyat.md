@@ -19,7 +19,10 @@ lang: uk
 
 Дитя тішилось і гралось на всі чотири собачі лапи.
 
-{% responsive_image path: assets/images/2022/schnauzer01.jpg alt: "дитя" %}
+{% responsive_image_block %}
+path: {{ imgpath | append: "schnauzer01.jpg" }}
+alt: "дитя" 
+{% endresponsive_image_block %}
 {% responsive_image path: assets/images/2022/schnauzer02.jpg alt: "дитя" %}
 
 #### підліток 2017
