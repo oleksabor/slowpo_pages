@@ -1,4 +1,7 @@
 ---
 layout: single
 ---
+{% assign py = page.date | date: "%Y" %}
+{% assign imgpath =  "assets/images/" | append: py | append: "/" %}
+
 {{ content }}
