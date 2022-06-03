@@ -10,10 +10,7 @@ lang: uk
 
 Може і дійсно постачання форми пішло не до війська, а на площадки Пром або Олх :-(
 
-{% responsive_image_block %}
-path: {{ imgpath | append: "pay4uniform.jpg" }}
-alt: "футболка ЗСУ" 
-{% endresponsive_image_block %}
+{% responsive_image path: assets/images/2022/pay4uniform.jpg alt: "футболка ЗСУ" %}
 
 Прийняв участь і я в цьому двіжу:
 купив пару футболок не _в абліпачку_ що видавали _беріть, тільки 52 в наявності_.
