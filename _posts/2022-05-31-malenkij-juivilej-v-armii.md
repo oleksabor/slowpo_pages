@@ -74,7 +74,10 @@ _Можем павтаріть_ розстріли мирного населен
 Інопланетяне знімають реаліті шоу.
 Сподіваюсь на галактичну поліцію, що всіх врятує і вимкне ретранслятори.
 
+**Статистика** трьох місяців. 
+Втрати Росії у війні з Україною
+{: .notice}
 
-{% responsive_image path: assets/images/2022/warStatistic0601.jpg alt: "war statistics 2022" %}
+{% responsive_image path: assets/images/2022/warStatistic0601.jpg alt: "war statistics 2022 Russia Ukraine" %}
 
 

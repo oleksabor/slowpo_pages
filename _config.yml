@@ -103,6 +103,7 @@ plugins:
   - jekyll-archives
   - jekyll-responsive-image 
   - jekyll-paginate-v2  
+  - kramdown
 whitelist:
   - jekyll-paginate-v2  
 

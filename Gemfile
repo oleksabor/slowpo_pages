@@ -20,6 +20,7 @@ group :jekyll_plugins do
   gem 'jekyll-archives'
   gem 'jekyll-responsive-image'
   gem 'jekyll-paginate-v2'
+  gem 'kramdown'
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
