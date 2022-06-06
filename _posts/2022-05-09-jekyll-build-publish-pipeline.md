@@ -6,6 +6,9 @@ description: build and publish jekyll web site from mobile
 tags: [hosting, Jekyll]
 category: dev
 lang: en
+toc: true
+toc_label: Content # defautl: Content
+toc_sticky: true   # enables sticky toc
 ---
 
 I do not have regular access to the notebook any more because of war.
@@ -17,14 +20,14 @@ However I'd like to keep posting some notes and make them available online rathe
 [Vercel](https://vercel.com) has free hosting plan for static personal web sites.
 I'm using it as social media alternative.
 
-### Building html by my own
+### Building pages localy
 
 So I had Vercel CI/CD pipeline established that copies generated html files.
 Html files had been generated locally on my notebook.
 Then I had to push generated html files to Github,
 Vercel CI pipeline fires and updates the hosting environment.
 
-### Building html by CI/CD pipeline
+### Building pages by CI/CD pipeline
 
 Now it works almost the same but  publishing pipeline is activated by `.md` files modification.
 
