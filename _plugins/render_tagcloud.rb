@@ -6,7 +6,7 @@ module Jekyll
     end
 
     def render(context)
-      @size_min, @size_max, @precision, @unit = 100, 800, 0, '%'
+      @size_min, @size_max, @precision, @unit = 100, 600, 0, '%'
       @threshold                              = 1
 
       base_url = context['site.baseurl']
