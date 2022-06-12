@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 
-date: 2022- +3:00
+title: #title
+date: #date
 description: 
-tags: [lifesucks, war]
-category: 
+tags: [#tags]
+category: #category
 lang: uk
 ---
 
