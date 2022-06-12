@@ -1,4 +1,4 @@
-
+debug="0";
 while [ $# -gt 0 ]; do
   case "$1" in
     --tags*|-t*)
@@ -17,8 +17,25 @@ while [ $# -gt 0 ]; do
       if [[ "$1" != *=* ]]; then shift; fi # Value is next arg if no `=`
       td="${1#*=}"
       ;;
+      --debug|-D)
+      if [[ "$1" != *=* ]]; then shift; fi # Value is next arg if no `=`
+      debug="1"
+      echo  "debug mode" 
+      ;;
     --help|-h)
-      printf "Meaningful help message" # Flag argument
+    helpText="Copies template.md file to the _posts folder.
+Cmd line
+
+bash newPost.sh \"post title\" [options]
+
+options
+ --date|-d post date, today by default
+ --tags|-t tag(s) separated by comma
+ --cat|-c category like life|dev|politic
+ --debug|-D debug (no file is created)
+"; 
+printf "$helpText"; 
+ # Flag argument
       exit 0
       ;;
     *)
@@ -71,5 +88,8 @@ echo "result is $titleTr";
 fileName="_posts/$td-$titleTr.md";
 echo $fileName;
 
+if [ $debug == "0"   ];  then
+echo "$tmpl" > "$fileName";
+else 
 echo "$tmpl";
-	
+fi

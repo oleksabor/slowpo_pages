@@ -137,6 +137,7 @@ exclude:
     - .sass-cache/
     - .jekyll-cache/
     - build.sh
+    - newPost.sh 
 #   - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
