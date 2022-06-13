@@ -44,9 +44,18 @@ while [ $# -gt 0 ]; do
       exit 0
       ;;
     *)
+    case "$1" in
+      -[[:digit]a-zA-Z])
       >&2 printf "Error: Invalid argument $1\n"
       exit 1
       ;;
+      *)
+      if [ "$title" == "" ]; then 
+      title=$1
+      fi
+      ;;
+    esac
+    ;;
   esac
   shift
 done
