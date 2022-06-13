@@ -1,4 +1,20 @@
 debug="0";
+echo "command line $@"
+
+helpText="Copies template.md file to the _posts folder.
+Cmd line
+
+bash newPost.sh \"post title\" [options]
+
+options
+ --date|-d post date, today by default
+ --tags|-t tag(s) separated by comma
+ --cat|-c category like life|dev|politic
+ --debug|-D debug (no file is created)
+"; 
+
+#bash newPost.sh --title "паляниця в печі" -t "test1,asdf2" -c testCat --debug
+
 while [ $# -gt 0 ]; do
   case "$1" in
     --tags*|-t*)
@@ -23,18 +39,7 @@ while [ $# -gt 0 ]; do
       echo  "debug mode" 
       ;;
     --help|-h)
-    helpText="Copies template.md file to the _posts folder.
-Cmd line
-
-bash newPost.sh \"post title\" [options]
-
-options
- --date|-d post date, today by default
- --tags|-t tag(s) separated by comma
- --cat|-c category like life|dev|politic
- --debug|-D debug (no file is created)
-"; 
-printf "$helpText"; 
+    printf "$helpText"; 
  # Flag argument
       exit 0
       ;;
@@ -45,8 +50,6 @@ printf "$helpText";
   esac
   shift
 done
-
-echo "command line $@"
 
 if [ "$td" == "" ]; then
 # date can be set by the cmd argument
@@ -79,6 +82,7 @@ for i in "${!s[@]}"; do
 done
 # non digits and non letters are removed
 res="${res//[! a-zA-Z[:digit:]]/}";      
+res="${res//[[:space:]]/-}";
 echo "$res"
  }
  
