@@ -47,4 +47,5 @@ PS
 
 UPD
 так ви ж знали і готувались!
+
 {% responsive_image path: assets/images/2022/podolyakRequirements.png alt: "наготоване покажіть будь ласка" %}
