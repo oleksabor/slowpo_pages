@@ -1,5 +1,5 @@
 debug="0";
-echo "command line $@"
+echo "command line: $@"
 
 helpText="Copies template.md file to the _posts folder.
 Cmd line
@@ -60,6 +60,22 @@ while [ $# -gt 0 ]; do
   shift
 done
 
+err="";
+if [ "$title" == "" ]; then
+err="title";
+fi
+if [ "$tags" == "" ]; then
+err="$err tags";
+fi
+if [ "$category" == "" ]; then
+err="$err category";
+fi
+if [ ! -z "$err" ]; then
+echo -e "\e[33mWARN! no required values were found [$err]\e[39m";
+echo "$helpText";
+exit 0; 
+fi
+
 if [ "$td" == "" ]; then
 # date can be set by the cmd argument
     td=$(date +'%Y-%m-%d')
@@ -76,7 +92,7 @@ tt=$(date +'%H:%M:%S %:z'  )
 
  
 
-	echo "transliterating [$title]";
+echo "transliterating [$title]";
 function transliterate(){
 s=( "а" "б" "в" "г" "ґ" "д" "е" "є" "ж" "з" "и" "і" "ї" "й" "к" "л" "м" "н" "о" "п" "р" "с" "т" "у" "ф" "х" "ц" "ч" "ш" "щ" "ь" "ю" "я" "А" "Б" "В" "Г" "Ґ" "Д" "Е" "Є" "Ж" "З" "И" "І" "Ї" "Й" "К" "Л" "М" "Н" "О" "П" "Р" "С" "Т" "У" "Ф" "Х" "Ц" "Ч" "Ш" "Щ" "Ь" "Ю" "Я" "'" "ș");
 
