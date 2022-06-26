@@ -60,6 +60,11 @@ while [ $# -gt 0 ]; do
   shift
 done
 
+if [ "$category" == "" ]; then
+# default category
+    category="life"
+fi
+
 err="";
 if [ "$title" == "" ]; then
 err="title";
