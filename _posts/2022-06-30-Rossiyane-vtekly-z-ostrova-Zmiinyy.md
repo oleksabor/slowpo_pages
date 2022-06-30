@@ -17,4 +17,6 @@ lang: uk
 
 {% responsive_image path: assets/images/2022/zmijinij3.jpg alt: "цілі на острові Зміїний уражено" %}
 
-{% responsive_image path: assets/images/2022/zmijinij2.jpg alt: "виття на болотах" %}
+Для того, щоб втекти з острова вистачило двох десантних катерів.
+
+{% responsive_image path: assets/images/2022/zmijinij2.png alt: "виття на болотах" %}
