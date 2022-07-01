@@ -2,13 +2,14 @@
 layout: post
 title: Google Pixel 4a намалював No sim card
 date: 2022-07-01 18:30:21 +03:00
-description: 
+description: Google Pixel 4a shows No sim card unexpectedly
 tags: [lifesucks]
 category: life
 lang: uk
 ---
 
-Гугл Піксель не бачить сім карту. 
+Гугл Піксель не бачить сім карту.
+No sim card і все.
 Сім карту поміняв - не допомогло :-(
 
 Пошук по інтернету сказав, що вирішується це в надрах Гугла заміною материнської плати.
@@ -31,5 +32,6 @@ lang: uk
 Всякі перезавантаження, витягти/вставити, safe mode нічого не змінили.
 
 З плану Б є ще спроба перейти на eSim, хоча хто зна, в якому місці зламався цей телефон.
+Якщо це здох весь gsm модуль - тоді пічаль.
 
 {% responsive_image path: assets/images/2022/pixel4a4636.png alt: "Pixel 4a gsm settings" %}
