@@ -1,6 +1,13 @@
 <a href="/{{ path }}">
     <picture class="padding">
         {% for i in resized %}<source media="(min-width: {{ i.width }}px)" srcset="/{{ i.path }}" > {% endfor %}
-        <img src="/{{ path }}" >
+        <img src="/{{ path }}" 
+{% if title %}
+  title: {{ title }}
+  {% endif %}
+{% if alt %}
+  alt: {{ alt }}
+  {% endif %}
+>
     </picture>
 </a>
