@@ -110,9 +110,13 @@ for i in "${!s[@]}"; do
   #echo "element $i is ${s[$i]}"
   res="${res//${s[$i]}/${d[$i]}}";
 done
+
+shopt -s extglob;
+
+res="${res//+(-)/ }"; #replacing all dashes with spaces
 # non digits and non letters are removed
 res="${res//[! a-zA-Z[:digit:]]/}";      
-res="${res//[[:space:]]/-}";
+res="${res//+([[:space:]])/-}"; #spaces are replaced with dash 
 echo "$res"
  }
  
