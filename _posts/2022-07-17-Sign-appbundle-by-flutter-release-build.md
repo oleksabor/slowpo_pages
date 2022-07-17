@@ -5,7 +5,7 @@ date: 2022-07-17 13:57:18 +03:00
 description: how configure flutter build to sign appbundle and upload signed release to Google Play console server
 tags: [flutter,android]
 category: dev
-lang: uk
+lang: en
 ---
 
 I've set up the android build environment on my home desktop.
