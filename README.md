@@ -1,5 +1,6 @@
 # slowpo_pages
-slowpo.kyiv.ua source code
+The blog source code.
+Made with Jekyll and Vercel
 
 ### Russia has attacked Ukraine
 
