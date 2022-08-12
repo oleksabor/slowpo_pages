@@ -15,7 +15,7 @@ lang: uk
 (три наступні пікчі об'єднані однією темою)
 {% responsive_image path: assets/images/2022/humorBudanov.jpg alt: "Буданова посадять за оголошення стратегічних планів" %}
 {% responsive_image path: assets/images/2022/humorMarchenko.jpg alt: "Маляр натякає що Буданова посадять. І Арестовича" %}
-{% responsive_image path: assets/images/2022/humorPizdabol.jpg alt: "Єрмак здав стратегічні плани України" %}
+{% responsive_image path: assets/images/2022/humorPizdabol.png alt: "Єрмак здав стратегічні плани України" %}
 
 {% responsive_image path: assets/images/2022/humorER.jpg alt: "Цікаво що заспіває 95й квартал на концертах цієї осені" %}
 
