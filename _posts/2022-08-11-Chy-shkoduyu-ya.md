@@ -2,7 +2,7 @@
 layout: post
 title: Чи шкодую я?
 date: 2022-08-11 12:21:37 +03:00
-description: 
+description: чи шкодую що пішов до лав зсу
 tags: [war]
 category: life
 lang: uk
