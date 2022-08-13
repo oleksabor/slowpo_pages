@@ -12,6 +12,8 @@ lang: uk
 
 {% responsive_image path: assets/images/2022/humorBrezhnev.jpg alt: "Зеленського книжки - ось справжнє марнославство" %}
 
+{% responsive_image path: assets/images/2022/humorZeBook.jpg alt: "Зеленського книжки - не готувався до війни" %}
+
 (три наступні пікчі об'єднані однією темою)
 
 {% responsive_image path: assets/images/2022/humorBudanov.jpg alt: "Буданова посадять за оголошення стратегічних планів" %}
