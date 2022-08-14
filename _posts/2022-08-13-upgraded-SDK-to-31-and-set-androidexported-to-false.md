@@ -2,10 +2,10 @@
 layout: post
 title: upgraded SDK to 31 and set android:exported to false
 date: 2022-08-13 21:13:13 +03:00
-description: upgraded Android application SDK to 31 and set android:exported to false
+description: upgraded Android application SDK to 31 and set android:exported to false caused application not to start
 tags: [android,flutter]
 category: dev
-lang: uk
+lang: en
 ---
 
 I've met Google Play restriction while uploading test version recently.
