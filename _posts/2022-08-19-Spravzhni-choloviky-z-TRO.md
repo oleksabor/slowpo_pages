@@ -20,4 +20,4 @@ lang: uk
 
 \- _треба записатись на манікюр, бо як запустить - потім не зробиш нічого з руками._
 
-{% responsive_image path: assets/images/2022/russianLosses20220810.jpeg alt: "втрати росії серпень 19" %}
+{% responsive_image path: assets/images/2022/russianLosses20220819.jpeg alt: "втрати росії 19го серпня" %}
