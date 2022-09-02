@@ -3,7 +3,7 @@ layout: post
 title: Що хорошого в роботі програміста
 date: 2022-08-18 21:17:40 +03:00
 description: що хорошого може бути в роботі програміста
-tags: [lifeSucks]
+tags: [lifesucks]
 category: life
 lang: uk
 ---
