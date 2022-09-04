@@ -2,7 +2,7 @@
 layout: post
 title: Сучасна міфологія чи таки пропаганда?
 date: 2022-09-04 09:17:33 +03:00
-description: 
+description: про охайність пересічних українців що триває доки зручно її дотримуватись
 tags: [war,мишебраття]
 category: politic
 lang: uk
