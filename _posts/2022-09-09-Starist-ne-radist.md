@@ -45,3 +45,7 @@ last_modified: 2022-09-09 15:10:06 +03:00
 {% responsive_image path: assets/images/2022/ecwcsLevel2.jpg alt: "термобілизна ecwcs level 2" %}
 
 Буде тонкий CRAFT тепер level 1.
+
+От лажа, фейсбук показав рекламі _Термобілизна Momentum LEVEL 2 Rip-stop Олива_.
+На 300 грн дешевше ніж Miltec-івська.
+Правда, у Momentum немає застібки і подовженого горла.
