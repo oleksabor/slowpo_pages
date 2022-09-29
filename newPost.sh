@@ -34,7 +34,6 @@ while [ $# -gt 0 ]; do
       td="${1#*=}"
       ;;
       --debug|-D)
-      if [[ "$1" != *=* ]]; then shift; fi # Value is next arg if no `=`
       debug="1"
       echo  "debug mode" 
       ;;
@@ -87,6 +86,8 @@ if [ "$td" == "" ]; then
 fi
 
 tt=$(date +'%H:%M:%S %:z'  )
+
+title="${title//:/}" # two dots breaks header processing
  
  tmpl=$(<template.md )
  tmpl="${tmpl//#tags/$tags}"
