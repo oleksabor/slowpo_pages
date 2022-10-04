@@ -19,3 +19,11 @@ Those photos were downloaded from the https://t.me/zloyodessit telegram channel.
 
 {% responsive_image path: assets/images/2022/IMG_20221003_123513_262.jpg alt: "russian military vehicle captured in Ukraine" %}
 {% responsive_image path: assets/images/2022/IMG_20221003_123510_787.jpg  alt: "russian militltary truck registration plate 0806КА 0806-ка" %}
+
+{% capture notice--success %}
+І на солодке:
+
+{% responsive_image path: assets/images/2022/russianLoses20221002.jpg  alt: "russian loses in Ukraine begin of October 2022" %}
+{% endcapture %}
+
+<div class="notice">{{ notice--success | markdownify }}</div>
