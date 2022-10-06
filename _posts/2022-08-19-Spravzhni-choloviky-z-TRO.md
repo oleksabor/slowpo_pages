@@ -3,7 +3,7 @@ layout: post
 title: Справжні чоловіки з ТРО
 date: 2022-08-19 21:20:51 +03:00
 description: які оюди служать в теробороні
-tags: [тероборона]
+tags: [тероборона,losses]
 category: life
 lang: uk
 ---

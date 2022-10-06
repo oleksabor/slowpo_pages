@@ -3,7 +3,7 @@ layout: post
 title: Солодкі мрії
 date: 2022-06-29 19:10:05 +03:00
 description: військова візуалізація планів на майбутнє згідно порад кращих собаководов щоб не поїхав дах
-tags: [war]
+tags: [war,losses]
 category: life
 lang: uk
 last_modified_at: 2022-09-17 12:39:00 +03:00
