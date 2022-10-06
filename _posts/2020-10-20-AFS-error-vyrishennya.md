@@ -2,7 +2,7 @@
 layout: post
 title: AFS error - вирішення
 date: 2020-10-20 23:22 
-tags: [car]
+tags: [car,кракаділ]
 category: life
 related: true
 ---

@@ -2,7 +2,7 @@
 layout: post
 title: отримав штраф за перевищення швидкості і оплатив самостійно
 date: 2020-09-01 14:56 
-tags: [car, lifesucks]
+tags: [car, lifesucks,кракаділ]
 category: life
 description: оплата автоматичного штрафу за перевищення швидкості реквізити
 ---

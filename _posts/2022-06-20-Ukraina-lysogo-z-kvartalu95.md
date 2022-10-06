@@ -4,7 +4,7 @@ title: Україна лисого з кварталу 95
 date: 2022-06-20 20:28:50 +03:00
 description: лисому з 95 кварталу Євгену Кошовому pohui на обов'язк з захисту Батьківщини
 tags: [war,зсу]
-category: life
+category: politic
 lang: uk
 ---
 
