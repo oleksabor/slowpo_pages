@@ -2,7 +2,7 @@
 layout: post
 title: AFS error несподіванно
 date: 2020-09-21 23:26 
-tags: [car]
+tags: [car,кракаділ]
 category: life
 related: true
 ---

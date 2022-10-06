@@ -2,7 +2,7 @@
 layout: post
 title: Focsani - Braşov - Sighișoara - Salina Turda - Merry Cemetery
 date: 2018-11-16 09:36 
-tags: [travel, vacation, car]
+tags: [travel, vacation, car,кракаділ]
 category: life
 description: подорож на авто туристичними місцями румунія 2018 Noroioși, Peleș Castle, Bran Castle, Sighișoara Citadel, Трансфарагаш, Sibiu, Castelul Corvinilor, Salina Turda, Merry Cemetery
 ---
@@ -51,7 +51,7 @@ __upd__
 {% responsive_image path: assets/images/2018/14203.jpg alt: "romania route" %}
 
 На другий день відвідали грязеві [вулкани Noroioși](https://vulcanii-noroiosi-paclele-mici.business.site). 
-Фактично це один великий (і декілька маленьких) вулкан, що час від часу пускають бульки в бруді, в оточенні глиняних мертвих пейзажів.
+Фактично це один великий (і декілька маленьких) "вулканів", що час від часу пускають бульки в бруді, в оточенні глиняних мертвих пейзажів.
 Як подобається подорожувати — варто оглянути.
 На наступні три ночі оселились в Брашові (Braşov). 
 Досить велике місто, десь там навіть є гірськолижний курорт.

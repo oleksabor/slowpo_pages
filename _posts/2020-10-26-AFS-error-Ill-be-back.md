@@ -2,7 +2,7 @@
 layout: post
 title: AFS error - Ill be back
 date: 2020-10-26 23:21 
-tags: [car]
+tags: [car,кракаділ]
 category: life
 related: true
 ---

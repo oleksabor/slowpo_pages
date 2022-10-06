@@ -2,7 +2,7 @@
 layout: post
 title: DEZENT TZ real photo
 date: 2019-03-05 19:54 
-tags: [car]
+tags: [car,кракаділ]
 category: life
 description: Dezent TZ real life photos
 ---

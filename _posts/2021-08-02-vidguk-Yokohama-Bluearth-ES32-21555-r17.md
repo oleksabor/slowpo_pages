@@ -2,7 +2,7 @@
 layout: post
 title: відгук Yokohama Bluearth ES32 215/55 r17
 date: 2021-08-02 17:25 +03:00
-tags: [car]
+tags: [car,кракаділ]
 category: life
 description: перші враження відгук Yokohama Bluearth ES32 215/55 r17 літо
 comments: true
