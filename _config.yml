@@ -91,11 +91,13 @@ defaults:
       path:            "tags"
     values:
       sitemap:         false
+      noindex:         true
   -
     scope:
       path:            "categories"
     values:
       sitemap:         false
+      noindex:         true
 
 
 plugins:
