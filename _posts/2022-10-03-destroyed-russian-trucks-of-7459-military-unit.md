@@ -3,7 +3,7 @@ layout: post
 title: destroyed russian trucks of 7459 military unit
 date: 2022-10-03 13:07:02 +03:00
 description: photos military vehicles abandoned in Ukraine
-tags: [war]
+tags: [war,losses]
 category: politic
 lang: en
 ---
@@ -23,7 +23,7 @@ Those photos were downloaded from the https://t.me/zloyodessit telegram channel.
 {% capture notice--success %}
 І на солодке:
 
-{% responsive_image path: assets/images/2022/russianLoses20221002.jpg  alt: "russian loses in Ukraine begin of October 2022" %}
+{% responsive_image path: assets/images/2022/russianLoses20221002.jpg  alt: "russian losses in Ukraine begin of October 2022" %}
 {% endcapture %}
 
 <div class="notice">{{ notice--success | markdownify }}</div>
