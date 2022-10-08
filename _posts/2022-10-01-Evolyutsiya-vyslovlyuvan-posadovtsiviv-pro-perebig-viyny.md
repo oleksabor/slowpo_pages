@@ -49,4 +49,4 @@ _піздєть - не мішки ворочать_
   Падіння російського мосту в Крим - це ж теж _collapse_?
   Дружина аж п'ять яєць вбила до сирників замість чотирьох.
   
- {% responsive_image path: assets/images/2022/IMG_20221008_085204_621.jpg alt: "twitter screenshot" %}
+ {% responsive_image path: assets/images/2022/IMG_20221008_085204_621.jpg alt: "collapsed bridge to crimea" %}
