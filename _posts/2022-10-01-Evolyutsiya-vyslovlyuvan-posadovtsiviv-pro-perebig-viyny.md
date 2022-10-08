@@ -45,8 +45,8 @@ _піздєть - не мішки ворочать_
 
 {% responsive_image path: assets/images/2022/francisFukuyama.png alt: "twitter screenshot" %}
 
-  upd 2022-10-08
-  Падіння російського мосту в Крим - це ж теж _collapse_?
-  Дружина аж п'ять яєць вбила до сирників замість чотирьох.
-  
- {% responsive_image path: assets/images/2022/IMG_20221008_085204_621.jpg alt: "collapsed bridge to crimea" %}
+**upd 2022-10-08** 
+Падіння російського мосту в Крим - це ж теж _collapse_?
+Дружина аж п'ять яєць вбила до сирників замість чотирьох.
+
+{% responsive_image path: assets/images/2022/IMG_20221008_085204_621.jpg alt: "collapsed bridge to crimea" %}
