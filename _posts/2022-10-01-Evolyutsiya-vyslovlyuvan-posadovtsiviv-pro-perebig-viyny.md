@@ -5,7 +5,7 @@ date: 2022-10-01 10:12:16 +03:00
 description: як змінюються обіцянки прогнози правлячих голів щодо перебігу війни
 tags: [war]
 category: politic
-last_modified_at: 2022-10-06 08:55:00 +03:00
+last_modified_at: 2022-10-08 09:07:00 +03:00
 lang: uk
 toc: true
 toc_label: зміст
@@ -44,3 +44,9 @@ _піздєть - не мішки ворочать_
 Трохи сумнівно тільки виглядає, бо _collapse_ - може значити геть не _колапс_ на твіторський.
 
 {% responsive_image path: assets/images/2022/francisFukuyama.png alt: "twitter screenshot" %}
+
+**upd 2022-10-08** 
+Падіння російського мосту в Крим - це ж теж _collapse_?
+Дружина аж п'ять яєць вбила до сирників замість чотирьох.
+
+{% responsive_image path: assets/images/2022/IMG_20221008_085204_621.jpg alt: "collapsed bridge to crimea" %}
