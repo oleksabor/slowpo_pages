@@ -44,3 +44,9 @@ _піздєть - не мішки ворочать_
 Трохи сумнівно тільки виглядає, бо _collapse_ - може значити геть не _колапс_ на твіторський.
 
 {% responsive_image path: assets/images/2022/francisFukuyama.png alt: "twitter screenshot" %}
+
+  upd 2022-10-08
+  Падіння російського мосту в Крим - це ж теж _collapse_?
+  Дружина аж п'ять яєць вбила до сирників замість чотирьох.
+  
+ {% responsive_image path: assets/images/2022/IMG_20221008_085204_621.jpg alt: "twitter screenshot" %}
