@@ -6,6 +6,7 @@ description: фсб підриває росію 20 років по тому
 tags: [war]
 category: politic
 lang: uk
+last_modified_at: 2022-10-10 13:45:00 +03:00
 ---
 
 З питання авторів вандалізму на мосту Керч - Тамань.
