@@ -49,3 +49,4 @@ last_modified_at: 2022-10-10 13:45:00 +03:00
 І рейсовий автобус з міста Дніпро:
 
 {% responsive_image path: assets/images/2022/IMG_20221010_180818_187.jpg alt: "russia is a terrorist state" %}
+{% responsive_image path: assets/images/2022/IMG_20221011_104257_628.jpg alt: "russia is a terrorist state" %}
