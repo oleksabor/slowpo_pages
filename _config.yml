@@ -98,6 +98,11 @@ defaults:
     values:
       sitemap:         false
       noindex:         true
+  -
+    scope:
+      path:            ""
+    values:
+      share:         true
 
 
 plugins:
