@@ -37,19 +37,3 @@ $right-sidebar-width-wide: 40px !default;
 .padding {
 Padding: 10px
 }
-
-.share-page {
-    text-align: center;
-    padding: 8px 15px;
-    border-radius: 5px;
-
-    a {
-        font-weight: 700;
-        color: #fff;
-        margin-left: 10px;
-
-        &:hover {
-            border-bottom: 1px dashed #fff;
-        }
-    }
-}
