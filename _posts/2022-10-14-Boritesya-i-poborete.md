@@ -3,7 +3,7 @@ layout: post
 title: Борітеся і поборете
 date: 2022-10-14 15:00:33 +03:00
 description: привітання зі святом покрови  днем козацтва
-tags: [war]
+tags: [war,looses]
 category: life
 lang: uk
 ---
