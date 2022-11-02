@@ -3,7 +3,7 @@ layout: post
 title: Цинічно але впевнено московіти руйнують інфраструктуру
 date: 2022-10-31 13:49:52 +02:00
 description: москва атакує цивільну інфраструктуру України
-tags: [war]
+tags: [war,looses]
 category: politic
 lang: uk
 ---

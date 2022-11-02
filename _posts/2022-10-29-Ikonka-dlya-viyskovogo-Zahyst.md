@@ -3,7 +3,7 @@ layout: post
 title: Іконка для військового. Захист?
 date: 2022-10-29 19:28:46 +03:00
 description: чи захищає ламінована картона іконка на війні?
-tags: [war,lifesucks]
+tags: [war,lifesucks,losses]
 category: life
 lang: uk
 ---
