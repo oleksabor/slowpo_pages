@@ -3,7 +3,7 @@ layout: post
 title: Мистецтво заголовка
 date: 2022-10-25 12:28:27 +03:00
 description: зенітчиком може бути кожен - аби наказ підписали...
-tags: [рукаЖопи,war]
+tags: [рукаЖопи,war,losses]
 category: life
 lang: uk
 ---
@@ -23,4 +23,4 @@ lang: uk
 _упередження 6 корпусів при відстані до проекції 300м і русі дрону зправа наліво_?
 І хоба! - ми вже теж трохи зенітчики...
 
-{% responsive_image path: assets/images/2022/russiaLooses20221025.jpg alt: "russia looses in ukraine october 2022" %}
+{% responsive_image path: assets/images/2022/russiaLooses20221025.jpg alt: "russia losses in ukraine october 2022" %}
