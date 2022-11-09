@@ -6,7 +6,7 @@ description: чи шкодую що пішов до лав зсу
 tags: [war,losses]
 category: life
 lang: uk
-last_modified_at: 2022-10-15 10:21:00 +03:00
+last_modified_at: 2022-11-09 09:09:00 +03:00
 ---
 
 Вчора почув запитання _Чи шкодую що пішов в армію?_
@@ -23,6 +23,8 @@ last_modified_at: 2022-10-15 10:21:00 +03:00
 Пішов до тероборони щоб (сюрприз) захищати дім не з сокирою і лопатою, а з АК.
 Щоб сина не забрали в армію.
 Щоб дружина і дочка мали зайвих 15 хвилин - виїхати з міста якщо що.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://www.youtube.com/embed/zn-jHcYvtrc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Мотоцикла продав. 
 Шкодую трохи, бо не вистачає легкості мотоциклєтного пересування.
