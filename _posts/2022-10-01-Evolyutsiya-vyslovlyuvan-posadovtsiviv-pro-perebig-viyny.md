@@ -5,7 +5,7 @@ date: 2022-10-01 10:12:16 +03:00
 description: як змінюються обіцянки прогнози правлячих голів щодо перебігу війни
 tags: [war]
 category: politic
-last_modified_at: 2022-10-18 16:37:00 +03:00
+last_modified_at: 2022-11-11 22:17:00 +03:00
 lang: uk
 toc: true
 toc_label: зміст
