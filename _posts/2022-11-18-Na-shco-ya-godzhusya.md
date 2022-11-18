@@ -2,8 +2,8 @@
 layout: post
 title: На що я годжуся
 date: 2022-11-18 13:42:18 +02:00
-description: 
-tags: [war,looses]
+description: сенс життя або circle of life
+tags: [war,losses]
 category: life
 lang: uk
 ---
@@ -19,4 +19,4 @@ lang: uk
 Дуже на це сподіваюсь.
 Як і на те, що знайду відповідь на питання _нафіга мені така держава?_
 
-{% responsive_image path: assets/images/2022/russianLooses20221118.jpg alt: "втрати росії в україні" %}
+{% responsive_image path: assets/images/2022/russianLosses20221118.jpg alt: "втрати росії в україні" %}
