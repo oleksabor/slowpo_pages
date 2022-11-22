@@ -2,7 +2,7 @@
 layout: post
 title: Тактические штаны на флисе пиксель
 date: 2022-11-20 10:44:15 +02:00
-description: відгук досвід покупки бушлат штани піксель uaform
+description: відгук досвід покупки бушлат штани піксель зимова форма uaform
 tags: [тероборона,lifesucks]
 category: life
 lang: uk
