@@ -6,7 +6,11 @@
     { "source": "/dev/2020/remont-sholoma-Icon-Airmada-kleem-boterm.html", "destination": "/2020/remont-sholoma-Icon-Airmada-kleem-boterm.html" },
     { "source": "/dev/2018/vsts-build-task-to-upload-to-the-sftp.html", "destination": "/2018/vsts-build-task-to-upload-to-the-sftp.html" },
     { "source": "/life/2020/AFS-error-Ill-be-back.html", "destination": "/2020/AFS-error-Ill-be-back.html" },
+        { "source": "/life/2020/AFS-error-nespodivanno.html", "destination": "/2020/AFS-error-nespodivanno.html" },
     { "source": "/dev/2021/nerivnomirna-robota-elektrogeneratora-firman-spg3000.html", "destination": "/2021/nerivnomirna-robota-elektrogeneratora-firman-spg3000.html" },
+        { "source": "/life/2017/pro-kryvyy-SocialMediaMarketing.html", "destination": "/2017/pro-kryvyy-SocialMediaMarketing.html" },
+            { "source": "/dev/2018/nuget-continuously-asks-for-credentials-when-push.html", "destination": "/2018/nuget-continuously-asks-for-credentials-when-push.html" },
+                { "source": "/life/2020/Charlz-Stross.-Katalog-katastrofi.html", "destination": "/2020/Charlz-Stross.-Katalog-katastrofi.html" },
     { "source": "/dev/2021/gibryd-izhaka-ta-vuzha.html", "destination": "/2021/gibryd-izhaka-ta-vuzha.html" }
   ]
 }
