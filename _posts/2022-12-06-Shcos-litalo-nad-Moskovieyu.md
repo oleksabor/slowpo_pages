@@ -23,7 +23,9 @@ lang: uk
 ### три
 Аеродром Енгельс, Саратов
 
-{% responsive_image path: assets/images/2022/droneAttackEngels.jpg alt: "" %}
+{% responsive_image path: assets/images/2022/droneAttackEngels.jpg alt: "drone strike on russian airbase" %}
+
+{% responsive_image path: assets/images/2022/droneStrikeEngels4.jpg alt: "russian airbase attacked by drone" %}
 
 ### чотири
 
