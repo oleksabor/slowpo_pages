@@ -29,6 +29,8 @@ lang: uk
 
 Нафтонакопичувач на аеродромі, Курськ. Для чого саме нафта на аеродромі!? Чи це назва для ГСМ?
 
-{% responsive_image path: assets/images/2022/droneAttackKursk.jpg alt: "" %}
+{% responsive_image path: assets/images/2022/droneAttackKursk.jpg alt: "атака курск аеродром" %}
+
+{% responsive_image path: assets/images/2022/droneStrikeKursk2.jpg alt: "атака курск аеродром" %}
 
 
