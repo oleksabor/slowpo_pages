@@ -8,4 +8,4 @@ category: #category
 lang: uk
 ---
 
-{% responsive_image path: assets/images/2022/ alt: "" %}
+{% responsive_image path: assets/images/2023/ alt: "" %}
