@@ -22,3 +22,5 @@ lang: uk
 {% responsive_image path: assets/images/2023/banderaMem2.jpg alt: "на честь народження Степана Бандери 1 січня" %}
 
 {% responsive_image path: assets/images/2023/banderaMem3.jpg alt: "на честь народження Степана Бандери 1 січня" %}
+
+{% responsive_image path: assets/images/2023/banderaMem4.png alt: "на честь народження Степана Бандери 1 січня" %}
