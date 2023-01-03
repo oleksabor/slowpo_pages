@@ -3,7 +3,7 @@ layout: post
 title: Плитоноска "по-турецькі"
 date: 2022-07-09 21:24:02 +03:00
 description: відгук досвід  використання плитоноска  жилет Ohlai Turkey Турція три місяці
-tags: [war,рукаЖопи]
+tags: [war,рукаЖопи,review]
 category: life
 lang: uk
 last_modified_at: 2022-08-24 08:35:00 +03:00

@@ -3,7 +3,7 @@ layout: post
 title: Живлення роутера 12в безперебійне
 date: 2022-12-13 21:19:59 +02:00
 description: безперебійне живлення роутера 12 вольт tenda
-tags: [notStupidIfWorks]
+tags: [notStupidIfWorks,review]
 category: dev
 lang: uk
 last_modified_at: 2022-12-13 19:37:00 +03:00

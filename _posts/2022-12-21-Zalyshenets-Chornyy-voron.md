@@ -3,7 +3,7 @@ layout: post
 title: Залишенець. Чорний ворон
 date: 2022-12-21 20:06:22 +02:00
 description: прочитав книжку про захист українців від більшовицької навали у 1920х роках. Аналогії аж зашкалюють.
-tags: [books,war]
+tags: [books,war,review]
 category: life
 lang: uk
 ---

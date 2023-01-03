@@ -2,7 +2,7 @@
 layout: post
 title: vw carnet - варто активувати чи ні?
 date: 2019-02-12 19:59 
-tags: [car,кракаділ]
+tags: [car,кракаділ,review]
 category: life
 ---
 Існує така собі система VW CarNet - придумка для підключення екрану авто до WWW.

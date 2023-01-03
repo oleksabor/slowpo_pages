@@ -2,7 +2,7 @@
 layout: post
 title: зарядка ATABA AT-998 отзыв
 date: 2009-05-18 15:23 
-tags: [lifesucks]
+tags: [lifesucks,review]
 category: life
 ---
 Достаточно модное устройство ATABA AT-998
