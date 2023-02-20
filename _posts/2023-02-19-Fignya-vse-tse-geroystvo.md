@@ -2,7 +2,7 @@
 layout: post
 title: Фігня все це геройство
 date: 2023-02-19 19:07:27 +02:00
-description: 
+description: про відчуття пересічного мобілізованого напередодні виїзду
 tags: [war]
 category: life
 lang: uk
