@@ -3,7 +3,7 @@ layout: post
 title: правий і лівий, чи середньо арифметичне!?
 date: 2023-03-30 22:48:17 +03:00
 description: євробляха для тро у 2023. 
-tags: [тероборона,war]
+tags: [тероборона,war,котобус]
 category: life
 lang: uk
 ---
