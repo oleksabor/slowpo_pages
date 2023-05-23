@@ -3,7 +3,7 @@ layout: post
 title: Вібрація перед дзвінком
 date: 2023-05-23 22:35:26 +03:00
 description: 
-tags: [pixel]
+tags: [pixel,android]
 category: dev
 lang: uk
 ---
