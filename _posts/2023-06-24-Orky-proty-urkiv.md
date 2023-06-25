@@ -12,6 +12,8 @@ lang: uk
 
 {% responsive_image path: assets/images/2023/lowBudgetMoskvia.png alt: "Лебедине все-таки" %}
 
+{% responsive_image path: assets/images/2023/29706_300.jpg alt: "Лебедине все-таки" %}
+
 
 > Первое известие: «Глава ЧВК обвинил Шойгу в нападении». 
 Второе известие: «Вагнер идет к границам РФ». 
