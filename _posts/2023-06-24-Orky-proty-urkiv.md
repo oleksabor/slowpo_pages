@@ -12,7 +12,7 @@ lang: uk
 
 {% responsive_image path: assets/images/2023/lowBudgetMoskvia.png alt: "Лебедине все-таки" %}
 
-{% responsive_image path: assets/images/2023/29706_300.jpg alt: "Лебедине все-таки" %}
+![image](/assets/images/2023/29706_300.jpg)
 
 
 > Первое известие: «Глава ЧВК обвинил Шойгу в нападении». 
