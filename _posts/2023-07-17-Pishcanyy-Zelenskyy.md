@@ -3,7 +3,7 @@ layout: post
 title: Піщаний Зеленський
 date: 2023-07-17 07:58:04 +03:00
 description: 
-tags: [lifesucks]
+tags: [lifeSucks]
 category: life
 lang: uk
 ---
