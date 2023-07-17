@@ -3,7 +3,7 @@ layout: post
 title: Сумна фотографія
 date: 2023-06-25 20:39:42 +03:00
 description: 
-tags: [lifeSucks,dog]
+tags: [lifesucks,dog]
 category: life
 lang: uk
 ---

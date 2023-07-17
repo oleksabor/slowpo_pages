@@ -3,7 +3,7 @@ layout: post
 title: псуються речі - псуюсь і я
 date: 2023-07-13 07:38:02 +03:00
 description: 
-tags: [lifeSucks]
+tags: [lifesucks]
 category: life
 lang: uk
 ---
