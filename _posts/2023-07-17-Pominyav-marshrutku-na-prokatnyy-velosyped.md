@@ -47,3 +47,5 @@ lang: uk
   Хіба з альтернатив тільки таксі.
 
 {% responsive_image path: assets/images/2023/bikeNowReview.png alt: "" %}
+
+{% responsive_image path: assets/images/2023/bikenoeNoParking.png alt: "спробуй знайди парковку" %}
