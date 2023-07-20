@@ -2,7 +2,7 @@
 layout: post
 title: Поміняв маршрутку на прокатний велосипед
 date: 2023-07-17 23:39:40 +03:00
-description: 
+description: bikenow відгук не їде прокат велосипед в київ
 tags: [lifesucks]
 category: life
 lang: uk
