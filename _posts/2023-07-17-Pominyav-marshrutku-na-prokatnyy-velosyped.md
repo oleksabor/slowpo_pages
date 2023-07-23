@@ -48,4 +48,4 @@ lang: uk
 
 {% responsive_image path: assets/images/2023/bikeNowReview.png alt: "" %}
 
-{% responsive_image path: assets/images/2023/bikenoeNoParking.png alt: "спробуй знайди парковку" %}
+{% responsive_image path: assets/images/2023/bikenowNoParking.png alt: "спробуй знайди парковку" %}
