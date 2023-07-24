@@ -56,7 +56,10 @@ https://club.autodoc.co.uk/pdf-manuals/club/vw/passat-b8-variant-3g5-cb5/brake-p
 
 {% responsive_image path: assets/images/2023/passatB8brakePads09.jpg alt: "права сторона" %}
 
+Тут теж треба почистити посадочні місця ддя зовнішньої і внутрішньої колодок.
 
 {% responsive_image path: assets/images/2023/passatB8brakePads11.jpg alt: "інструменти і коробка з-під старих колодок" %}
 
+Пішло дві години часу.
 
+Номер оригінальних гальмівних колодок passat b8 2tdi VAG 8V0 698 151
