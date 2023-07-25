@@ -63,3 +63,5 @@ https://club.autodoc.co.uk/pdf-manuals/club/vw/passat-b8-variant-3g5-cb5/brake-p
 Пішло дві години часу.
 
 Номер оригінальних гальмівних колодок passat b8 2tdi VAG 8V0 698 151
+
+77400км
