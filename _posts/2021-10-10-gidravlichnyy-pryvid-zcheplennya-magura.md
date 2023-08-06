@@ -6,7 +6,7 @@ tags: [moto,review]
 category: dev
 related: true
 description: Magura 0120689 гідравлічний привід зчеплення на Versys 650 2007
-last_modified_at: 2022-09-23 09:36:00 +03:00
+last_modified_at: 2023-07-31 22:56:00 +03:00
 ---
 
 Чотири роки поспіль сервісмени, що брали до рук кермо мотика, казали одразу 
