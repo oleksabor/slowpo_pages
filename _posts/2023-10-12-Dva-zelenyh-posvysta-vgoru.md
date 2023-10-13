@@ -3,7 +3,7 @@ layout: post
 title: Два зелених посвиста вгору
 date: 2023-10-12 21:12:58 +03:00
 description: 
-tags: [war,тро]
+tags: [war,тероборона]
 category: life
 lang: uk
 ---
