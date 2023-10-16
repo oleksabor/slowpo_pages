@@ -63,8 +63,8 @@ UPD зима 20022-2023
 * ремінь [FRS-pad трьохточковий](https://sts-gear.com.ua/ua/p1134683294-avtomatnij-remin-frs.html)
 * полум'ягасники Стрела ПКМ і [АК74](https://strela.in.ua/katalog/ak/)
   Стрільба з полум'ягасником впливає на влучніть (сюрприз).
-* рації [типу баофенг]({% link _posts/2022-04-29-baofeng-bf-9700-radio-problem.md %})
-* [футболки ЗСУ]({% link _posts/2022-06-02-forma-za-svoji-grajemo-dali.md %})
+* рації [типу баофенг]({% post_url 2022/2022-04-29-baofeng-bf-9700-radio-problem %})
+* [футболки ЗСУ]({% post_url 2022/2022-06-02-forma-za-svoji-grajemo-dali %})
    більш підходящі за розміром
 * [кавер Вільха](https://militarist.ua/ua/catalog/tacticalgear/zashchitnoe-snaryazhenie/chekhly-dlya-kasok/m-tac-kaver-na-shlem-vilkhamulticam/) на шолом.
   Малувато липучок 3M 468MP дають з кавером для закріплення на шоломі, на жаль.
