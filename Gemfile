@@ -14,6 +14,12 @@ gem "minimal-mistakes-jekyll"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 # gem "github-pages", group: :jekyll_plugins
 # If you have any plugins, put them here!
+
+# gem install rmagick --platform=ruby -- '--with-opt-dir="[path to ImageMagick]"'
+# or 
+# gem install rmagick --platform=ruby -- --with-opt-lib=c:/ImageMagick/6.6.4-Q16/lib --with-opt-include=c:/ImageMagick/6.6.4-Q16/include
+# https://stackoverflow.com/questions/35026112/how-to-install-rmagick-on-windows-10
+
 group :jekyll_plugins do
   #gem "github-pages", "~> 215"
   gem "jekyll-feed", "~> 0.12"
