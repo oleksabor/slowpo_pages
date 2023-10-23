@@ -9,6 +9,8 @@ lang: uk
 ---
 [нормальний рецепт](https://etnosoft.com.ua/blank/basturma-z-yalovychyny-yak-prygotuvaty-basturmu-v-domashnih-umovah-shvydkyj-retsept/), продублюю тут.
 
+З двох кілограм м'яса вийшло один кілограм баструми.
+
 {% responsive_image path: assets/images/2023/bastrumaAtHome.jpeg/ alt: "баструма вдома рецепт" %}
 
 ## день перший.
