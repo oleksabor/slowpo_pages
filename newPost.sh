@@ -85,6 +85,8 @@ if [ "$td" == "" ]; then
     td=$(date +'%Y-%m-%d')
 fi
 
+year=`echo $td | awk -F\- '{print $1}'`
+
 tt=$(date +'%H:%M:%S %:z'  )
 
 title="${title//:/}" # two dots breaks header processing
@@ -124,7 +126,7 @@ echo "$res"
 titleTr=$(transliterate $1)
 echo "result is $titleTr";
 
-fileName="_posts/$td-$titleTr.md";
+fileName="_posts/$year/$td-$titleTr.md";
 echo $fileName;
 
 if [ $debug == "0"   ];  then
