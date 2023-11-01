@@ -3,7 +3,7 @@ layout: post
 title: Поміняв гальмівні колодки
 date: 2023-07-23 19:05:18 +03:00
 description: заміна гальмівних колодок передніх пассат б8 front prake bads replacement vw passat b8
-tags: [кракаділ,car]
+tags: [кракаділ,car,diy]
 category: life
 lang: uk
 last_modified_at: 2023-08-10 18:59:00 +03:00

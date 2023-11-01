@@ -3,7 +3,7 @@ layout: post
 title: Бастурма домашня рецепт
 date: 2023-10-22 23:53:12 +03:00
 description: Бастурма домашня рецепт з яловичини з коментарями
-tags: [їдло]
+tags: [їдло,diy]
 category: dev
 lang: uk
 ---

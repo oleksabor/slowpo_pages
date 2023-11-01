@@ -3,7 +3,7 @@ layout: post
 title: Бризкалки на Ніссан X-Trail
 date: 2023-08-27 18:46:34 +03:00
 description: NISSAN 289329U000 відгук форсунки омивача x-trail з aliexpress
-tags: [car,котобус]
+tags: [car,котобус,diy]
 category: life
 lang: uk
 ---
