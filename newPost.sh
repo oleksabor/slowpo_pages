@@ -7,7 +7,7 @@ Cmd line
 bash newPost.sh \"post title\" [options]
 
 options
- --date|-d post date, today by default
+ --date|-d post date, today by default. yyyy-mm-dd
  --tags|-t tag(s) separated by comma
  --cat|-c category like life|dev|politic
  --debug|-D debug (no file is created)
