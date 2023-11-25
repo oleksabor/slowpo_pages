@@ -2,7 +2,7 @@
 layout: post
 title: Заправка газових балонів туристичних
 date: 2023-11-25 16:04:39 +02:00
-description: 
+description: газові балони туристичні не повинні стояти порожніми
 tags: [war,trekking]
 category: life
 lang: uk
