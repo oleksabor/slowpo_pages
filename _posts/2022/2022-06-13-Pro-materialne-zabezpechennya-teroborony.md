@@ -2,7 +2,7 @@
 layout: post
 title: Про матеріальне забезпечення тероборони
 date: 2022-06-13 15:48:04 +03:00
-last_modified_at: 2023-10-13 17:52:00 +03:00
+last_modified_at: 2023-11-27 14:52:00 +03:00
 description: матеріальне забезпечення тероборони потерпає доводиться купляти за свої
 tags: [war,зсу,тероборона]
 category: life
@@ -60,7 +60,7 @@ UPD зима 20022-2023
 * пасок з molle
 * сумку збросу магазинів
 * [рюкзак 30л](https://allegro.pl/oferta/plecak-taktyczno-operacyjny-camo-crux-30l-olive-8899889612)
-* ремінь [FRS-pad трьохточковий](https://sts-gear.com.ua/ua/p1134683294-avtomatnij-remin-frs.html)
+* ремінь [FRS-pad трьохточковий](https://sts-gear.com/ua/p1688849599-avtomatnij-remen-frs.html)
 * полум'ягасники Стрела ПКМ і [АК74](https://strela.in.ua/katalog/ak/)
   Стрільба з полум'ягасником впливає на влучніть (сюрприз).
 * рації [типу баофенг]({% post_url 2022/2022-04-29-baofeng-bf-9700-radio-problem %})
