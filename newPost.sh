@@ -126,11 +126,16 @@ echo "$res"
 titleTr=$(transliterate $1)
 echo "result is $titleTr";
 
-fileName="_posts/$year/$td-$titleTr.md";
+dirName="_posts/$year"
+fileName="$dirName/$td-$titleTr.md";
+echo $dirName;
 echo $fileName;
 
 if [ $debug == "0"   ];  then
-echo "$tmpl" > "$fileName";
+  if [ ! -d $dirName ]; then
+    mkdir $dirName;
+  fi
+  echo "$tmpl" > "$fileName";
 else 
 echo "$tmpl";
 fi
