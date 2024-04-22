@@ -3,7 +3,7 @@ layout: post
 title: Астронавт Джонс. Софт Тело
 date: 2024-04-22 18:51:41 +03:00
 description: Книжки що сподобались прочитав Хайнлайн Рюкер
-tags: [daily,book]
+tags: [daily,books]
 category: life
 lang: uk
 ---
