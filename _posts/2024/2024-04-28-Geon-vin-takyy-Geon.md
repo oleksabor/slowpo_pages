@@ -2,7 +2,7 @@
 layout: post
 title: Geon він такий Геон
 date: 2024-04-28 23:09:56 +03:00
-description: мотоцикл як засіб пересування
+description: мотоцикл як засіб пересування під час ремонту Північного мосту
 tags: [moto]
 category: life
 lang: uk
