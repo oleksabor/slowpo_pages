@@ -19,7 +19,7 @@ command on Termux.
 Error was `z command is unknown`.
 
 From the [SO post](https://stackoverflow.com/questions/54970738/how-to-change-the-default-startup-folder-in-termux) 
-I've learned that basrc file on Termux is stored at `/data/data/com.termux/files/usr/etc/bash.bashrc`.
+I've learned that bashrc file on Termux is stored at `/data/data/com.termux/files/usr/etc/bash.bashrc`.
 
 I've opened it in the `nano` editor and added a line with required configuration 
 
