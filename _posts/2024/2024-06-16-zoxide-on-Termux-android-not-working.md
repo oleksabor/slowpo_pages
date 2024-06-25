@@ -12,7 +12,7 @@ Just found [Zoxide](https://github.com/ajeetdsouza/zoxide) tool for *nix.
 
 The only one problem i got is Zoxide was not working after 
 
-> pkg install zoxid
+> pkg install zoxide
 
 command on Termux.
 
