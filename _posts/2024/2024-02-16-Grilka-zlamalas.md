@@ -16,4 +16,3 @@ lang: uk
 
 Мінус 200 уо і день на СТО "щоб вона охолола і діагностували проблему".
 
-{% responsive_image path: assets/images/2023/ alt: "" %}
