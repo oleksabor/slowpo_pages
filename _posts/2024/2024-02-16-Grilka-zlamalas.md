@@ -16,7 +16,4 @@ lang: uk
 
 Мінус 200 уо і день на СТО "щоб вона охолола і діагностували проблему".
 
-{% responsive_image path: assets/images/2024/rele04L907282B.jpg alt: "реле 04L907282B" %}
-
-{% responsive_image path: assets/images/2024/rele04L907282B-2.jpg alt: "реле 04L907282B" %}
-
+{% responsive_image path: assets/images/2024/rele04L907282B.jpg alt: "реле 04L907282B" %} {% responsive_image path: assets/images/2024/rele04L907282B-2.jpg alt: "реле 04L907282B" %}
