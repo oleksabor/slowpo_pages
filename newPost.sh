@@ -135,7 +135,13 @@ if [ $debug == "0"   ];  then
   if [ ! -d $dirName ]; then
     mkdir $dirName;
   fi
-  echo "$tmpl" > "$fileName";
+  if [ -f $fileName ]; then
+    YEL='\033[1;33m'
+    NC='\033[0m' # No Color
+    echo -e "File${YEL} $fileName ${NC}exists, ${YEL}skipping${NC}."
+  else
+    echo "$tmpl" > "$fileName";
+  fi
 else 
 echo "$tmpl";
 fi
