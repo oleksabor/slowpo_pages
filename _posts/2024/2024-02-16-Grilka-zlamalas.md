@@ -2,7 +2,7 @@
 layout: post
 title: Грілка зламалась
 date: 2024-02-16 08:22:25 +03:00
-description: дизельний Passat почав довше заводитись в холод показав помилку
+description: дизельний Passat почав довше заводитись в холод показав помилку 04L907282B
 tags: [car,кракаділ]
 category: life
 lang: uk
@@ -15,4 +15,8 @@ lang: uk
 Чомусь я був впевнений що перегоріли пару свічок розжарювання.
 
 Мінус 200 уо і день на СТО "щоб вона охолола і діагностували проблему".
+
+{% responsive_image path: assets/images/2024/rele04L907282B.jpg alt: "реле 04L907282B" %}
+
+{% responsive_image path: assets/images/2024/rele04L907282B-2.jpg alt: "реле 04L907282B" %}
 
