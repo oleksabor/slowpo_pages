@@ -2,7 +2,7 @@
 layout: post
 title: Baofeng BF-9700 сюрприз з роз'ємом
 description: рація баофенг bf 9700 досвід використання ремонт відключення втрати зв'язку
-tags: [lifesucks, war,review]
+tags: [lifesucks, war,відгук]
 category: life
 language: uk
 date: 2022-04-29 10:20 +03:00

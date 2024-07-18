@@ -3,7 +3,7 @@ layout: post
 title: Укртелеком - всьо
 date: 2024-07-01 07:30:26 +03:00
 description: Укртелеком перестав роздавати інтернет під час вимкнення світла Київ відгук
-tags: [diy,живлення,review]
+tags: [diy,живлення,відгук]
 category: life
 lang: uk
 last_modified_at: 2024-07-04 19:26:00 +03:00

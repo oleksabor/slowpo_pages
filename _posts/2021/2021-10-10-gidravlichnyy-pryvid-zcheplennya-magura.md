@@ -2,7 +2,7 @@
 layout: post
 title: гідравлічний привід зчеплення магура
 date: 2021-10-10 22:25 
-tags: [moto,review]
+tags: [moto,відгук]
 category: dev
 related: true
 description: Magura 0120689 гідравлічний привід зчеплення на Versys 650 2007

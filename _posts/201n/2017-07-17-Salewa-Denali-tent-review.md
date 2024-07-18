@@ -2,7 +2,7 @@
 layout: post
 title: Salewa Denali 4 tent review
 date: 2017-07-17 13:08 
-tags: [trekking]
+tags: [trekking,відгук]
 category: life
 ---
 Випав шанс протестувати весною придбаний намет Salewa Denali 4

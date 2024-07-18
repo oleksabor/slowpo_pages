@@ -2,7 +2,7 @@
 layout: post
 title: shinko e705 trail master на Kawasaki Versys
 date: 2021-07-29 18:50 +03:00
-tags: [moto,review]
+tags: [moto,відгук]
 category: life
 description: поставив shinko e705 trail master на Kawasaki Versys. Гарна гума для простих грунтовок але заважка трохи
 related: true
