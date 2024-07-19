@@ -20,7 +20,7 @@ lang: uk
 {% responsive_image path: assets/images/2024/anker01.jpg alt: "" %}
 {% responsive_image path: assets/images/2024/anker02.jpg alt: "" %}
 
-Є 
+Має:
 * два виходи 220 вольт 
 * чотири USB-A з підтримкою швидкої зарядки
 * два виходи USB-C (на 100W і 60W)
