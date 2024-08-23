@@ -9,7 +9,7 @@ Software developer from
 
 ### career
 
-* 1999 I've graduated from Kyiv Natioanal university of economics with a master's degree in information systems of economics.
+* 1999 I've graduated from Kyiv National university of economics with a master's degree in information systems of economics.
 * 1998-2004 worked in KINTO (securities dealer) as software developer and "responsible for everything" IT guy
 * 2004-2007 in ProCredit bank Ukraine as software developer.
 * 2007-2013 in representative office of Quipu Gmbh in Ukraine (as back-end developer)
