@@ -4,7 +4,7 @@ title: бюджети перемоги - прокурори і парки
 date: 2024-11-20 13:36:10 +02:00
 description: 
 tags: [war]
-category: politics
+category: politic
 lang: uk
 ---
 
