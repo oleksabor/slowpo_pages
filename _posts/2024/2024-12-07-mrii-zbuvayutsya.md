@@ -3,8 +3,9 @@ layout: post
 title: мрії збуваються
 date: 2024-12-07 21:33:01 +02:00
 description: 
-tags: [politics]
+tags: [рукаЖопи]
 category: life
+category: politic
 lang: uk
 ---
 
