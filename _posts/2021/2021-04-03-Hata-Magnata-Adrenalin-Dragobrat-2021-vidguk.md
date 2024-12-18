@@ -3,7 +3,7 @@ layout: post
 title: Хата Магната, Адреналін. Драгобрат 2021 відгук
 date: 2021-04-03 23:09 
 category: life
-tags: [vacation]
+tags: [vacation,відгук]
 description: відгук про готель Хата Магнату кухню готелю Адреналін Драгобрат 2021
 comments: true
 ---
