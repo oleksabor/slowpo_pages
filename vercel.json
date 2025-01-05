@@ -1,4 +1,5 @@
 {
+  "installCommand": "apt-get install imagemagick libmagickwand-dev",
   "redirects": [
     { "source": "/dev/2021/indykator-naprugy-dlya-mototsyklu.html", "destination": "/2021/indykator-naprugy-dlya-mototsyklu.html" },
     { "source": "/dev/2018/FluentFTP-with-Azure-FTPS.html", "destination": "/2018/FluentFTP-with-Azure-FTPS.html" },
