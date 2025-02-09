@@ -28,6 +28,6 @@ Windows в task manager пише що пам'яті теж 32, але 16GB з н
 Давно я не бачив щоб продавали биту пам'ять. 
 Зайшов у відгуки на Розетці - перший же відгук `приїхала бита планка`...
 
-{% responsive_image path: assets/images/2025/idrmDDR4failed.jpg alt: "ram module IRDM IR-X3200D464L16SA" %}
+{% responsive_image path: assets/images/2025/irdmDDR4failed.jpg alt: "ram module IRDM IR-X3200D464L16SA" %}
 
 Залишили поки качечку-хромоніжечку на 24GB - треба буде поміняти биту пам'ять.
