@@ -3,7 +3,7 @@ layout: post
 title: дали подихати українцям за кордоном
 date: 2025-01-16 22:41:45 +02:00
 description: верещук біженці провал підтримки реінтеграції
-tags: [politics]
+tags: [politic]
 category: life
 lang: uk
 ---
