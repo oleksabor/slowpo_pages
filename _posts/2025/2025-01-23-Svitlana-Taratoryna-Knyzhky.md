@@ -3,7 +3,7 @@ layout: post
 title: Світлана Тараторина. Книжки
 date: 2025-01-23 14:41:47 +02:00
 description: відгук дім солі лазарус тараторіна світлана
-tags: [books]
+tags: [books,відгук]
 category: life
 lang: uk
 ---

@@ -3,7 +3,7 @@ layout: post
 title: Собака втрачає шерсть
 date: 2025-06-15 23:38:57 +03:00
 description: в собаки випало хутро і почалось облисіння на саині, вухах і хвості
-tags: [Junior]
+tags: [dog]
 category: life
 lang: uk
 ---
