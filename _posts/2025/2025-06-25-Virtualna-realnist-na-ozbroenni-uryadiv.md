@@ -2,7 +2,7 @@
 layout: post
 title: Віртуальна реальність на озброєнні урядів
 date: 2025-06-25 22:24:50 +03:00
-description: 
+description: технології допомагають злодеусам контролювати мізки пересічних
 tags: [politic,notStupidIfWorks]
 category: life
 lang: uk
