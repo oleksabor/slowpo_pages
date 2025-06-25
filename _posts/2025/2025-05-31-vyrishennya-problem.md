@@ -3,7 +3,7 @@ layout: post
 title: вирішення проблем
 date: 2025-05-31 14:33:09 +03:00
 description: 
-tags: [рукаЖопи,ЗСУ]
+tags: [рукаЖопи,зсу]
 category: life
 lang: uk
 last_modified_at: 2025-06-02 22:26:00 +03:00
