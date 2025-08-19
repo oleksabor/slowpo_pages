@@ -35,6 +35,6 @@ lang: uk
 
 Вздовж струмка `(3)` можна вийти на Терношорську Ладу при бажанні (якщо вірити мапі).
 Але ми 
-[вже були на Ладі]({% post_url 2024/2022-09-29-Litnya-progulyanka-2020-Beskydy-i-Pokutsko-Bukovynski-Karpaty#Терношорська лада %})
+[вже були на Ладі]({% post_url 2024/2022-09-29-Litnya-progulyanka-2020-Beskydy-i-Pokutsko-Bukovynski-Karpaty %})
 , то ж цей шлях не перевіряв.
 
