@@ -2,7 +2,7 @@
 layout: post
 title: Фединин камінь з Буковецького перевалу
 date: 2025-08-19 21:55:32 +03:00
-description: 
+description:  маршрут на Фединин камінь і Терношорську Ладу Карпати
 tags: [vacation,trekking]
 category: life
 lang: uk
@@ -35,6 +35,7 @@ lang: uk
 
 Вздовж струмка `(3)` можна вийти на Терношорську Ладу при бажанні (якщо вірити мапі).
 Але ми 
-[вже були на Ладі]({% post_url 2024/2022-09-29-Litnya-progulyanka-2020-Beskydy-i-Pokutsko-Bukovynski-Karpaty %})
+[вже були на Ладі]({% post_url 2024/2022-09-29-Litnya-progulyanka-2020-Beskydy-i-Pokutsko-Bukovynski-Karpaty %}#%D1%82%D0%B5%D1%80%D0%BD%D0%BE%D1%88%D0%BE%D1%80%D1%81%D1%8C%D0%BA%D0%B0-%D0%BB%D0%B0%D0%B4%D0%B0)
 , то ж цей шлях не перевіряв.
 
+Збігати з перевалу до каменя і на ладу можна за день, якщо без медитацій.
