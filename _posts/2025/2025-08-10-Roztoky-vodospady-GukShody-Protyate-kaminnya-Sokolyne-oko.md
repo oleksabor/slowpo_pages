@@ -34,6 +34,6 @@ lang: uk
 
 {% responsive_image path: assets/images/2025/soBadPath.jpg alt: "мапа" title: "підйому вгору немає" %}
 
-{% responsive_image path: assets/images/2025/1000005961.jpg alt: "Соколине око"%}
+{% responsive_image path: assets/images/2025/1000005961.jpg alt: "Соколине око" %}
 
-{% responsive_image path: assets/images/2025/1000005962.jpg alt: "Соколине око"%}
+{% responsive_image path: assets/images/2025/1000005962.jpg alt: "Соколине око" %}
