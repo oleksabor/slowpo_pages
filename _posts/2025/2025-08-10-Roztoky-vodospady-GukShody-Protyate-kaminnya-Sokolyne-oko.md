@@ -17,7 +17,7 @@ lang: uk
 Спочатку йде вздовж річки, потім піднімається в лісок.
 Підйом - вгору по схилу від лавки поруч з водоспадом Верхній Гук.
 
-{% responsive_image path: assets/images/2025/soPathWF.jpg alt: "мапа" title:"підйому вгору немає" %}
+{% responsive_image path: assets/images/2025/soPathWF.jpg alt: "мапа" title: "підйому вгору немає" %}
 
 Якщо йти від водоспаду, після галявини з горіхом зникає стежка - обійшли по лівому березі Смугара.
 
@@ -25,11 +25,15 @@ lang: uk
 
 Воду біля Соколиного ока знайшов ось тут приблизно:
 
-{% responsive_image path: assets/images/2025/soWater.png alt: "мапа" title:"вода на Соколиному оці" %}
+{% responsive_image path: assets/images/2025/soWater.png alt: "мапа" title: "вода на Соколиному оці" %}
 
 Щоб дістатись до води треба буде здолати досить крутий спуск вниз по схилу, засипаному листям.
 Зате непоганий вид на камінь Соколиного ока знизу.
 
 Напряму без маркерів насправді дороги немає: стежка береться круто вгору, але швидко зникає, так йти не варто:
 
-{% responsive_image path: assets/images/2025/soBadPath.jpg alt: "мапа" title:"підйому вгору немає" %}
+{% responsive_image path: assets/images/2025/soBadPath.jpg alt: "мапа" title: "підйому вгору немає" %}
+
+{% responsive_image path: assets/images/2025/1000005961.jpg alt: "Соколине око"%}
+
+{% responsive_image path: assets/images/2025/1000005962.jpg alt: "Соколине око"%}
