@@ -3,13 +3,14 @@ layout: post
 title: золото і блакить
 date: 2025-11-01 22:19:41 +02:00
 description: мене похрестили
-tags: [life]
+tags: [war]
 category: life
 lang: uk
 ---
-https://youtu.be/55Qf7yTLPKA?si=MxNCjF97RuaZkSnF
 
 Коли ми їхали на Донецьку область - бачив жінку, що хрестила нашу колону біля Броварів.
 
 ніч, лютий 2023 - і людина хрестить ТРОшників з свого подвір'я о четвертій ранку.. Повернусь, якщо зможу.
+
+[music](https://youtu.be/55Qf7yTLPKA?si=MxNCjF97RuaZkSnF)
 
