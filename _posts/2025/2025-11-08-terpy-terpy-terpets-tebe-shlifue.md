@@ -3,7 +3,7 @@ layout: post
 title: терпи терпи терпець тебе шліфує
 date: 2025-11-08 20:27:28 +02:00
 description: гарний музичний твір на вірш Стуса Василя.
-tags: [war]
+tags: [music]
 category: daily
 lang: uk
 ---

@@ -3,7 +3,7 @@ layout: post
 title: золото і блакить
 date: 2025-11-01 22:19:41 +02:00
 description: мене похрестили
-tags: [war]
+tags: [music,war]
 category: life
 lang: uk
 ---
