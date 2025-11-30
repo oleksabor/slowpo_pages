@@ -3,7 +3,7 @@ layout: post
 title: ошийок телячий, м'який
 date: 2025-11-16 22:07:35 +02:00
 description: м'який яловичий ошийок без реєстрації і смс
-tags: [рецепт,daily]
+tags: [їдло,daily]
 category: life
 lang: uk
 ---
