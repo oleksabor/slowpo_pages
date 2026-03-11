@@ -67,5 +67,3 @@ Radeon RX 6600
 
 Більш швидка відеокарта `Radeon RX 6600` має споживати менше, ніж `Radeon RX 580`.
 Тут я обома руками за прогрес і економну економіку.
-
-{% responsive_image path: assets/images/2023/ alt: "" %}
