@@ -57,8 +57,8 @@ Radeon RX 6600
 Тут мене чекало перше відкриття:
 процесор приїхав в пупирці і блістері. 
 З моменту великих красивих коробок і голографічних наклейок минуло багато років виявляється.
-{% responsive_image path: assets/images/2026/cpu1.jpg alt: "cpu packing" %}
 
+{% responsive_image path: assets/images/2026/cpu1.jpg alt: "cpu packing" %}
 {% responsive_image path: assets/images/2026/cpu2.jpg alt: "cpu amd upgrade" %}
 
 Так як папєрєднік і поточний мають однакову потужність - кулер не міняв, залишилось те боксед чувирло.
@@ -67,3 +67,4 @@ Radeon RX 6600
 
 Більш швидка відеокарта `Radeon RX 6600` має споживати менше, ніж `Radeon RX 580`.
 Тут я обома руками за прогрес і економну економіку.
+
