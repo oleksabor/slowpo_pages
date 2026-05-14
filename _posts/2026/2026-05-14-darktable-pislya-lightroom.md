@@ -2,7 +2,7 @@
 layout: post
 title: darktable після lightroom
 date: 2026-05-14 09:28:14 +03:00
-description: 
+description: darktable базове редагування raw файлів з фотоапарату
 tags: [photo,diy]
 category: life
 lang: uk
