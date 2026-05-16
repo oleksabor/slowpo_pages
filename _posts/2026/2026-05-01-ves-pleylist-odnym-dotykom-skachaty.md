@@ -35,8 +35,7 @@ yt-dlp -x --audio-format mp3 --audio-quality 192K --paths ~/Downloads/is27 https
 `yt-dlp` ще вміє заповнювати Title Artist автоматично - треба буде дослідити трохи, чи гарно воно буде заповноюватись. 
 Бо зараз там таке чудернацьке в ютубі малюється в заголовках композицій, що ужоси.
 
-UPD
-
+### UPD
 для того, щоб позбутись попереджень про неможливість використовувати js runtime - треба трохи поприсідати.
 [Встановити і дозволити використання](https://github.com/yt-dlp/yt-dlp/wiki/EJS) `yt-dlp-ejs`.
 
@@ -48,6 +47,8 @@ UPD
 --js-runtimes deno:/usr/local/bin/deno
 
 -o "%(title)s.%(ext)s"
+
+--cookies-from-browser chrome
 ```
 
 `--remote-components ejs:github` - тоді yt-dlp буде автоматично скачувати з GitHub EJS скрипти
