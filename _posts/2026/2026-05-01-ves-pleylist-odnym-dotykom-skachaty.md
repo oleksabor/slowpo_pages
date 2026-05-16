@@ -6,6 +6,7 @@ description: скачати плейліст youtube як mp3 файл
 tags: [daily]
 category: life
 lang: uk
+last_modified_at: 2026-05-16 22:07:00 +03:00
 ---
 
 Збираю пісні з ютубу - слухати в автомобілі, навіть якщо немає з'єднання з інтернетом.
@@ -21,7 +22,7 @@ lang: uk
 * зберігти весь плейліст за один запуск
 
 ```
-yt-dlp -x --audio-format mp3 --audio-quality 192K --cookies-from-browser chrome --paths ~/Downloads/is26 https://www.youtube.com/playlist?list=PLlLDTlMx2PvpP4GWcJFUh8c_ju7F84Is7
+yt-dlp -x --audio-format mp3 --audio-quality 192K --paths ~/Downloads/is27 https://www.youtube.com/playlist?list=PLlLDTlMx2PvqoEtXWCUVYAn82A41ehQF6
 ```
 
 Трохи заморочок з встановленням - і `yt-dlp` таки працює і скачує все, що в плейлисті.
@@ -33,4 +34,26 @@ yt-dlp -x --audio-format mp3 --audio-quality 192K --cookies-from-browser chrome 
 
 `yt-dlp` ще вміє заповнювати Title Artist автоматично - треба буде дослідити трохи, чи гарно воно буде заповноюватись. 
 Бо зараз там таке чудернацьке в ютубі малюється в заголовках композицій, що ужоси.
+
+UPD
+
+для того, щоб позбутись попереджень про неможливість використовувати js runtime - треба трохи поприсідати.
+[Встановити і дозволити використання](https://github.com/yt-dlp/yt-dlp/wiki/EJS) `yt-dlp-ejs`.
+
+Конфіг файл створив ~/.yt-dlp/config з ось таким вмістом:
+
+```
+--remote-components ejs:github
+
+--js-runtimes deno:/usr/local/bin/deno
+
+-o "%(title)s.%(ext)s"
+```
+
+`--remote-components ejs:github` - тоді yt-dlp буде автоматично скачувати з GitHub EJS скрипти
+
+`deno` вже було встановлено в /usr/local/bin/deno - треба тільки показати шлях до нього.
+
+`-o "%(title)s.%(ext)s"` - для того щоб позбутись унікального id в імені файлу, додається до імені файлу в квадратних дужках.
+
 
