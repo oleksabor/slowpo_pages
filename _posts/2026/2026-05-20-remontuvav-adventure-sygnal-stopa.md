@@ -3,7 +3,7 @@ layout: post
 title: ремонтував adventure сигнал стопа
 date: 2026-05-20 21:51:38 +03:00
 description: стоп сигнал задні гальми ktm adventure 390 stop light rear brake
-tags: [diy,adventure]
+tags: [diy,adventure,moto]
 category: life
 lang: uk
 ---
