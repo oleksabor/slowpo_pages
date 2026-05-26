@@ -6,6 +6,7 @@ description:
 tags: [war]
 category: life
 lang: uk
+last_modified_at: 2026-05-26 21:04:00 +03:00
 ---
 
 Ранок неділі 24 травня після масованої атаки кацапів:
