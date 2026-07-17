@@ -14,8 +14,13 @@ Cordura 600 Ohlai Turkey greenі все таке.
 Дуже схожі на ту, що я користувався до сьогодні.
 Ось приклад рекламних зображень
 
-{% responsive_image path: assets/images/2022/plitonoskaTur.jpg alt: "плитоноска а-ля Турція"  title: "плитоноска а-ля Турція" %}
-{% responsive_image path: assets/images/2022/plitonoskaTur3.jpg alt: "плитоноска а-ля Турція" %}
+[![plit1][f5]][f5]
+
+  [f5]: /assets/images/2022/plitonoskaTur.jpg
+
+[![plit2][f6]][f6]
+
+  [f6]: /assets/images/2022/plitonoskaTur3.jpg
 
 Десь місяць після початку війни ходив в броніку поліцейському 2го класу.
 Після цього отримав від волонтерів плитоноску і дві керамічні плити.
