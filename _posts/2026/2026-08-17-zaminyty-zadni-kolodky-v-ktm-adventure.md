@@ -2,7 +2,7 @@
 layout: post
 title: замінити задні колодки в ktm adventure
 date: 2026-08-17 23:18:06 +03:00
-description: замінити задні колодки KTM 390 adventure ктм 
+description: замінити задні колодки KTM 390 adventure ктм rear brake pads
 tags: [diy,adventure]
 category: life
 lang: uk
