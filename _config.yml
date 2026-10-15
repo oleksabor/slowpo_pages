@@ -20,7 +20,6 @@
 
 # requires node.js 22.x to get Ruby 3.3
 
-
 title: slow.Po
 email: olek.sa.borodie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
