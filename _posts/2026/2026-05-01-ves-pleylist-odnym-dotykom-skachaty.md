@@ -6,7 +6,7 @@ description: скачати плейліст youtube як mp3 файл
 tags: [daily]
 category: life
 lang: uk
-last_modified_at: 2026-05-16 22:07:00 +03:00
+last_modified_at: 2026-10-16 21:54:00 +03:00
 ---
 
 Збираю пісні з ютубу - слухати в автомобілі, навіть якщо немає з'єднання з інтернетом.
@@ -57,4 +57,16 @@ yt-dlp -x --audio-format mp3 --audio-quality 192K --paths ~/Downloads/is27 https
 
 `-o "%(title)s.%(ext)s"` - для того щоб позбутись унікального id в імені файлу, додається до імені файлу в квадратних дужках.
 
+#### UPD інсталяція
+для Ubuntu в репозіторіях apt лежить трохи давня версія, що перестала працювати неочікувано, генерувались помилки 403.
 
+То ж зробив як радять [в інтернетах](https://github.com/yt-dlp/yt-dlp/wiki/Installation)
+
+```
+curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o ~/Downloads
+mkdir ~/.local/bin
+mv ~/Downloads/yt-dlp ~/.local/bin
+chmod a+rx ~/.local/bin/yt-dlp  # Make executable
+yt-dlp --update-to nightly
+```
+Напряму в ~/.local/bin відмовився качати curl, згенерував помилку доступу.
