@@ -23,7 +23,7 @@ lang: uk
 
 Правда результат виходить трохи не такий, як гадалося:
 
-{% responsive_image path: assets/images/2026/resultZe.jpg alt: "результат" %}
+{% responsive_image path: assets/images/2026/resultZe.png alt: "результат" %}
 
 [В результаті сентецій](https://militarnyi.com/uk/news/prypynyla-vyprobuvannya-shi-v-ukrayini)
 вийшло так, що на рівному місці стався скандал дипломатичний і мінус корисна розробка для арти.
