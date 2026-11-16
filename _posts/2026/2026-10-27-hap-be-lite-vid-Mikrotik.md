@@ -1,7 +1,7 @@
 ---
 layout: post
 title: hap be lite від Mikrotik
-date: 2026-10-27 23:15:45 +02:00
+date: 2026-11-17 00:18:45 +02:00
 description: Mikrotik hap be lite wifi freezes version downgrade for RouterOS 
 tags: [diy,Mikrotik]
 category: life
@@ -51,3 +51,13 @@ lang: uk
 
 Вказаний пароль в WiFi configuration не підтягується в mld1 wifi1 wifi2.
 Треба для кожного інтерфейсу прописувати пароль окремо.
+
+### UPD 7.25.1
+Спробував 7.25.1 - так само виснуть бездротові підключення через 2 години нічого не робіння.
+
+Відкотився на 7.24.5.
+Для пониження версії на Mikrotik hap be lite - скопіював npk файли потрібної архитектури в корінь Files роутера, обрав Downgrade і перезавантажився роутер.
+Потім понизив Firmware через System\RouterBoard. 
+
+Дочка жаліється на 7.24.5 що Zoom видає попередження про погану якість з'єднання час від часу. 
+Повертаєш hap ac2 з тим же провайдером і базовим конфігом - як годинник працює.
