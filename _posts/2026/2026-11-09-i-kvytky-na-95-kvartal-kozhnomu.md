@@ -3,7 +3,7 @@ layout: post
 title: і квитки на 95 квартал кожному
 date: 2026-11-09 22:20:21 +02:00
 description: 
-tags: [преЗеденте]
+tags: [преЗеденте,war]
 category: politic
 lang: uk
 ---
